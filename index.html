@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<title> User Login </title>
+		<script type="text/javascript" src="login.js"></script>
+	</head>
+	<body>
+		<div class="header">
+			<div class="name">
+				<h1>User Registration</h1>
+			</div>
+		</div> 
+        <div class="nav"></div>
+		<div class="content">
+			<form id="login">
+                <br>
+				<label for="email">Email:</label> 
+                <input name="email" id="email" type="email" required> 
+                <br>
+				<label for="password">Password:</label> 
+                <input name="password" id="password" type="password" required> 
+                <br>
+				<label for="roles">Select your role:</label> 
+                <select name="roles" id="roles" required>
+                    <option value="">None</option>
+                    <option value="Patient">Patient</option>
+                    <option value="Doctor">Doctor</option>
+                    <option value="Pharmacy">Pharmacy</option>
+                </select>
+                <br>
+                <p>
+				<input type="submit" value="Login"></input> 
+			</form>
+		</div>
+        <div class="question">Don't have an account? <a href="./register.html">Register Here</a></div>
+	</body>
+</html>

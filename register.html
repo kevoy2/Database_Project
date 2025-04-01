@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<title> User Registration </title>
+		<script type="text/javascript" src="register.js"></script>
+	</head>
+	<body>
+		<div class="header">
+			<div class="name">
+				<h1>User Registration</h1>
+			</div>
+		</div> 
+		<div class="content">
+			<form>
+				<h3>Role Selection:</h3>
+				<label for="roles">What are you registering as?</label>
+				<select name="roles" id="roles" required>
+					<option value="">None</option>
+					<option value="Patient">Patient</option>
+					<option value="Doctor">Doctor</option>
+					<option value="Pharmacy">Pharmacy</option>
+				</select>
+			</form>
+			<br>
+			<form id="register">
+				<h3>General Information:</h3>
+				<label for="phone">Phone Number:</label> 
+				<input name="phone" id=phone" type="string" required> 
+				<br>
+				<label for="street">Street Name:</label> 
+				<input name="street" id="street" type="string" required> 
+				<br>
+				<label for="city">City Name:</label> 
+				<input name="city" id="city" type="string" required> 
+				<br>
+				<label for="state">State Name:</label> 
+				<input name="state" id="state" type="string" required> 
+				<br>
+				<label for="zip">Zipcode:</label> 
+				<input name="zip" id="zip" type="string" required> 
+				<br>
+				<label for="password">Password:</label> 
+				<input name="password" id="password" type="password" required> 
+				<br>
+			</form>
+		</div>
+        <div class="question">Already have an account? <a href="./index.html">Sign In Here</a></div>
+	</body>
+</html>
