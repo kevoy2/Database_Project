@@ -35,9 +35,13 @@
     top: 20px;
   }
   form {
-    width: 25%;
+    width: 40%;
     margin: auto;
+    padding: 10px;
     border-width: 2px;
     border-style: solid;
     border-radius: 5px;
+  }
+  #register {
+    display: none;
   }

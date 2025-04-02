@@ -23,12 +23,15 @@ document.addEventListener("DOMContentLoaded", function () {
     e.preventDefault();
     console.log("Changed to: " + roleSelect.value)
     registerForm.innerHTML = origin;
+    registerForm.style.display = "block";
     if (roleSelect.value == "Patient") {
       registerForm.innerHTML += "<hr><h3>Role Specific Information:</h3><label for=\"ssn\">SSN:</label><input name=\"ssn\" id=\"ssn\" type=\"string\" required><br><label for=\"name\">Name:</label><input name=\"name\" id=\"name\" type=\"string\" required><br><p><input type=\"submit\" value=\"Register\"></input>";
     } else if (roleSelect.value == "Doctor") {
       registerForm.innerHTML += "<hr><h3>Role Specific Information:</h3><label for=\"dr_id\">Doctor Id:</label><input name=\"dr_id\" id=\"dr_id\" type=\"string\" required><br><label for=\"dr_type\">Type of Doctor:</label><input name=\"dr_type\" id=\"dr_type\" type=\"string\" required><br><p><input type=\"submit\" value=\"Register\"></input>";
     } else if (roleSelect.value == "Pharmacy") {
       registerForm.innerHTML += "<hr><h3>Role Specific Information:</h3><label for=\"pharma_id\">Pharmacy Id:</label><input name=\"pharma_id\" id=\"pharma_id\" type=\"string\" required><br><label for=\"hours\">Hours:</label><input name=\"hours\" id=\"hours\" type=\"string\" required><br><p><input type=\"submit\" value=\"Register\"></input>";
+    } else {
+      registerForm.style.display = "none";
     }
   });
 });
