@@ -1,17 +1,62 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link rel="icon" type="image/x-icon" href="./medic.png">
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<title>Patient Dashboard</title>
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+		<script type="text/javascript" src="dashboard-patient.js"></script>
 	</head>
 	<body>
 		<div class="header">
+			<img src="./medic.png" alt="logo" class="logo">
 			<div class="name">
-				<h1>Patient Dashboard</h1>
+				<h1>MyWebMeds</h1>
 			</div>
+			<button id="logout">Logout</button>
 		</div> 
 		<div class="content">
-            <h1>Welcome to the temporary Patient Dashboard!!!</h1>
+            <div class="dashboard">
+				<h1>Welcome to the Patient Dashboard!!!</h1>
+				<div>
+					<h3>View Your Doctor</h3>
+					Would you like to view your doctor's information? 
+					<button id="doc">View</button>
+					<br>
+					<table id="portfolio"></table>
+				</div>
+				<hr>
+				<div>
+					<h3>Show Prescribed Medicines</h3>
+					Do you want to view your perscriptions? 
+					<button id="med">View</button>
+					<br>
+					<table id="record"></table>
+				</div>
+				<hr>
+				<div>
+					<form id="view">
+						<h3>View Pharmacy Stock</h3>
+						<label for="pharma">Which pharmacy's stock do you want to view?</label>
+						<select name="pharma" id="pharma" required>
+							<option value="">None</option>
+							<option value="94512">Target Pharmacy #1</option>
+							<option value="66065">Target Pharmacy #2</option>
+							<option value="41121">Target Pharmacy #3</option>
+							<option value="68580">Target Pharmacy #4</option>
+							<option value="54095">Target Pharmacy #5</option>
+							<option value="26830">Costco Pharmacy #1</option>
+							<option value="15070">Costco Pharmacy #2</option>
+							<option value="35506">Costco Pharmacy #3</option>
+							<option value="26354">Kroger Pharmacy</option>
+							<option value="41167">Walmart Pharmacy</option>
+						</select>
+						<input type="submit" value="View"></input>
+					</form>
+					<br>
+					<canvas id="chart"></canvas>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>

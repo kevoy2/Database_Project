@@ -1,0 +1,166 @@
+CREATE DATABASE IF NOT EXISTS project;
+
+USE project;
+
+DROP TABLE IF EXISTS Conditions;
+DROP TABLE IF EXISTS Doctor;
+DROP TABLE IF EXISTS Drug;
+DROP TABLE IF EXISTS Patient;
+DROP TABLE IF EXISTS Pharmacy;
+DROP TABLE IF EXISTS Stock;
+DROP TABLE IF EXISTS Fills;
+DROP TABLE IF EXISTS Has;
+DROP TABLE IF EXISTS Orders;
+DROP TABLE IF EXISTS Prescribes;
+DROP TABLE IF EXISTS Queries;
+DROP TABLE IF EXISTS Sees;
+DROP TABLE IF EXISTS Stores;
+DROP TABLE IF EXISTS Takes;
+DROP TABLE IF EXISTS Treats;
+
+CREATE TABLE Conditions(
+   Condition_Code SMALLINT UNSIGNED,
+   Type VARCHAR(60),
+   PRIMARY KEY(Condition_Code)
+);
+
+CREATE TABLE Doctor(
+   Doctor_ID SMALLINT UNSIGNED AUTO_INCREMENT,
+   Type	VARCHAR(60),
+   Name VARCHAR(60),
+   Phone CHAR(10),
+   Address_Zip_Code CHAR(5),
+   Address_State CHAR(2),
+   Address_City VARCHAR(60),
+   Address_Street VARCHAR(60),
+   Password VARCHAR(25),
+   PRIMARY KEY (Doctor_ID)
+);
+
+CREATE TABLE Drug(
+   Drug_ID SMALLINT UNSIGNED,
+   Type VARCHAR(60),
+   PRIMARY KEY(Drug_ID)
+);
+
+CREATE TABLE Patient(
+   SSN CHAR(9),
+   Name VARCHAR(60),
+   Phone CHAR(10),
+   Address_Zip_Code CHAR(5),
+   Address_State CHAR(2),
+   Address_City VARCHAR(60),
+   Address_Street VARCHAR(60),
+   Password VARCHAR(25),
+   PRIMARY KEY (SSN)
+);
+
+CREATE TABLE Pharmacy(
+   Pharmacy_ID SMALLINT UNSIGNED,
+   Hours VARCHAR(100),
+   Phone CHAR(10),
+   Address_Zip_Code CHAR(5),
+   Address_State CHAR(2),
+   Address_City VARCHAR(60),
+   Address_Street VARCHAR(60),
+   Password VARCHAR(25),
+   PRIMARY KEY (Pharmacy_ID)
+);
+
+CREATE TABLE Stock(
+   Pharmacy_ID SMALLINT UNSIGNED,
+   Drug_ID SMALLINT UNSIGNED,
+   Quantity SMALLINT,
+   PRIMARY KEY(Pharmacy_ID, Drug_ID),
+   FOREIGN KEY (Pharmacy_ID) REFERENCES Pharmacy(Pharmacy_ID),
+   FOREIGN KEY (Drug_ID) REFERENCES Drug(Drug_ID)
+	ON UPDATE CASCADE
+);
+
+CREATE TABLE Fills(
+   Drug_ID SMALLINT UNSIGNED,
+   Pharmacy_ID SMALLINT UNSIGNED,
+   PRIMARY KEY(Drug_ID),
+   FOREIGN KEY (Drug_ID) REFERENCES Drug(Drug_ID),
+   FOREIGN KEY (Pharmacy_ID) REFERENCES Pharmacy(Pharmacy_ID)
+	ON UPDATE CASCADE
+);
+
+CREATE TABLE Has(
+   SSN CHAR(9),
+   Condition_Code SMALLINT UNSIGNED,
+   PRIMARY KEY(SSN,Condition_Code),
+   FOREIGN KEY (SSN) REFERENCES Patient(SSN),
+   FOREIGN KEY (Condition_Code) REFERENCES Conditions(Condition_Code)
+	ON UPDATE CASCADE
+);
+
+CREATE TABLE Orders(
+   Doctor_ID SMALLINT UNSIGNED AUTO_INCREMENT,
+   Pharmacy_ID SMALLINT UNSIGNED,
+   PRIMARY KEY(Doctor_ID,Pharmacy_ID),
+   FOREIGN KEY (Doctor_ID) REFERENCES Doctor(Doctor_ID),
+   FOREIGN KEY (Pharmacy_ID) REFERENCES Pharmacy(Pharmacy_ID)
+	ON UPDATE CASCADE
+);
+
+CREATE TABLE Prescribes(
+   Drug_ID SMALLINT UNSIGNED,
+   SSN CHAR(9),
+   Doctor_ID SMALLINT UNSIGNED AUTO_INCREMENT,
+   Pharmacy_ID SMALLINT UNSIGNED,
+   PRIMARY KEY(Drug_ID,SSN,Doctor_ID,Pharmacy_ID),
+   FOREIGN KEY (Drug_ID) REFERENCES Drug(Drug_ID),
+   FOREIGN KEY (SSN) REFERENCES Patient(SSN),
+   FOREIGN KEY (Doctor_ID) REFERENCES Doctor(Doctor_ID),
+   FOREIGN KEY (Pharmacy_ID) REFERENCES Pharmacy(Pharmacy_ID)
+	ON UPDATE CASCADE
+);
+
+
+CREATE TABLE Queries(
+   Drug_ID SMALLINT UNSIGNED,
+   SSN CHAR(9),
+   Pharmacy_ID SMALLINT UNSIGNED,
+   PRIMARY KEY(Drug_ID,SSN,Pharmacy_ID),
+   FOREIGN KEY (Drug_ID) REFERENCES Drug(Drug_ID),
+   FOREIGN KEY (SSN) REFERENCES Patient(SSN),
+   FOREIGN KEY (Pharmacy_ID) REFERENCES Pharmacy(Pharmacy_ID)
+	ON UPDATE CASCADE
+);
+
+CREATE TABLE Sees(
+   SSN CHAR(9),
+   Doctor_ID SMALLINT UNSIGNED AUTO_INCREMENT,
+   PRIMARY KEY(SSN),
+   FOREIGN KEY (SSN) REFERENCES Patient(SSN),
+   FOREIGN KEY (Doctor_ID) REFERENCES Doctor(Doctor_ID)
+	ON UPDATE CASCADE
+);
+
+CREATE TABLE Stores(
+   Drug_ID SMALLINT UNSIGNED,
+   Pharmacy_ID SMALLINT UNSIGNED,
+   PRIMARY KEY(Drug_ID,Pharmacy_ID),
+   FOREIGN KEY (Drug_ID) REFERENCES Drug(Drug_ID),
+   FOREIGN KEY (Pharmacy_ID) REFERENCES Pharmacy(Pharmacy_ID)
+	ON UPDATE CASCADE
+);
+
+CREATE TABLE Takes(
+   Drug_ID SMALLINT UNSIGNED,
+   SSN CHAR(9),
+   PRIMARY KEY(Drug_ID,SSN),
+   FOREIGN KEY (Drug_ID) REFERENCES Drug(Drug_ID),
+   FOREIGN KEY (SSN) REFERENCES Patient(SSN)
+	ON UPDATE CASCADE
+);
+
+CREATE TABLE Treats(
+   Drug_ID SMALLINT UNSIGNED,
+   Condition_Code SMALLINT UNSIGNED,
+   PRIMARY KEY(Drug_ID,Condition_Code),
+   FOREIGN KEY (Drug_ID) REFERENCES Drug(Drug_ID),
+   FOREIGN KEY (Condition_Code) REFERENCES Conditions(Condition_Code)
+	ON UPDATE CASCADE
+);

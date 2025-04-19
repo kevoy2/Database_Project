@@ -1,0 +1,41 @@
+Condition_Code,Type
+C001,"Anxiety, panic disorders"
+C002,"High blood pressure, chest pain"
+C003,Bacterial infections
+C004,"Schizophrenia, bipolar disorder, depression"
+C005,High cholesterol
+C006,Cough suppressant
+C007,"High blood pressure, heart failure"
+C008,Allergies
+C009,Depression
+C010,"Anxiety, seizures"
+C011,Muscle spasms
+C012,ADHD
+C013,Type 2 diabetes
+C014,"Depression, anxiety, nerve pain"
+C015,Hormone replacement therapy
+C016,"Acid reflux, heartburn"
+C017,Enlarged prostate
+C018,Fungal infections
+C019,"Depression, OCD"
+C020,"Folic acid deficiency, pregnancy support"
+C021,"Fluid retention, high blood pressure"
+C022,"Nerve pain, seizures"
+C023,"High blood pressure, fluid retention"
+C024,"Pain relief, inflammation"
+C025,Diabetes
+C026,"Seizures, epilepsy"
+C027,Hypothyroidism
+C028,High blood pressure
+C029,"ADHD, narcolepsy"
+C030,"Inflammation, allergic reactions"
+C031,"Bacterial infections, parasitic infections"
+C032,Pain relief
+C033,"Acid reflux, ulcers"
+C034,"Seizures, Epilepsy"
+C035,Potassium supplement
+C036,"Schizophrenia, bipolar disorder"
+C037,"Type 2 diabetes, weight management"
+C038,"Depression, anxiety"
+C039,"Erectile dysfunction, pulmonary hypertension"
+C040,"Depression, insomnia"

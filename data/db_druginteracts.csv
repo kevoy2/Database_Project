@@ -1,0 +1,1184 @@
+,DrugID,Interacts With,Risk Level,Interaction_ID
+0,76338,ethanol,Moderate,53125
+1,76338,amyl nitrite,Moderate,58386
+2,76338,cobicistat,Moderate,63331
+3,76338,deferasirox,Moderate,11731
+4,76338,diazoxide,Moderate,10803
+5,76338,flumazenil,Moderate,80004
+6,76338,magnesium carbonate,Minor,81199
+7,76338,phentolamine,Moderate,95096
+8,76338,prednisolone,Minor,47261
+9,76338,promethazine,Moderate,39177
+10,76338,iodide i-123,Moderate,12814
+11,76338,iodide i-131,Moderate,89593
+12,76338,sevelamer,Minor,49368
+13,76338,leucovorin,Minor,51646
+14,76338,acetylcysteine,Minor,52610
+15,76338,galactose,Minor,96974
+16,76338,folic acid,Minor,81096
+17,76338,gadodiamide,Minor,98083
+18,11966,gadopentetic acid,Moderate,98875
+19,11966,amifostine,Moderate,10853
+20,11966,cobicistat,Moderate,63331
+21,11966,deferasirox,Moderate,11731
+22,11966,gadoteric acid,Moderate,13871
+23,11966,gadoxetic acid,Moderate,36386
+24,11966,iodipamide,Moderate,87496
+25,11966,iopanoic acid,Moderate,70029
+26,11966,iothalamic acid,Moderate,46641
+27,11966,iopodic acid,Moderate,71700
+28,11966,magnesium sulfate,Moderate,16998
+29,11966,prednisolone,Moderate,47261
+30,11966,promethazine,Moderate,39177
+31,11966,nitrous acid,Moderate,58109
+32,11966,tyropanoic acid,Moderate,21328
+33,11966,gadoversetamide,Minor,61006
+34,11966,sevelamer,Minor,49368
+35,11966,iopromide,Minor,37238
+36,11966,leucovorin,Minor,51646
+37,11966,mannitol,Minor,33387
+38,11966,acetylcysteine,Minor,52610
+39,11966,galactose,Minor,96974
+40,11966,calcium acetate,Moderate,46565
+41,11966,diatrizoate,Moderate,88649
+42,11966,folic acid,Minor,81096
+43,11966,gadodiamide,Minor,98083
+44,70433,iodide i-123,Moderate,12814
+45,70433,iodide i-131,Moderate,89593
+46,70433,promethazine,Minor,39177
+47,70433,acetylcysteine,Minor,52610
+48,70433,leucovorin,Minor,51646
+49,70433,folic acid,Minor,81096
+50,70433,prednisolone,Minor,47261
+51,16606,amyl nitrite,Moderate,58386
+52,16606,cobicistat,Moderate,63331
+53,16606,deferasirox,Moderate,11731
+54,16606,ioflupane i-123,Moderate,92573
+55,16606,iohexol,Major,52403
+56,16606,iopamidol,Major,37446
+57,16606,macimorelin,Moderate,36916
+58,16606,ethanol,Moderate,53125
+59,16606,diazoxide,Moderate,10803
+60,16606,phentolamine,Moderate,95096
+61,16606,physostigmine,Moderate,54250
+62,16606,physostigmine (ophthalmic),Moderate,91596
+63,16606,promethazine,Moderate,39177
+64,16606,tolbutamide,Moderate,42128
+65,16606,folic acid,Minor,81096
+66,16606,prednisolone,Minor,47261
+67,71567,macimorelin,Major,36916
+68,71567,magnesium carbonate,Moderate,81199
+69,71567,promethazine,Moderate,39177
+70,71567,prednisolone,Minor,47261
+71,71567,leucovorin,Minor,51646
+72,71567,mannitol,Minor,33387
+73,71567,acetylcysteine,Minor,52610
+74,71567,galactose,Minor,96974
+75,71567,vitamin a,Minor,22945
+76,71567,folic acid,Minor,81096
+77,28093,gadobutrol,Moderate,66515
+78,28093,gadofosveset trisodium,Moderate,29636
+79,28093,amifostine,Moderate,10853
+80,28093,cobicistat,Moderate,63331
+81,28093,gadoteric acid,Moderate,13871
+82,28093,gadoxetic acid,Moderate,36386
+83,28093,iobenguane (i-131),Major,28573
+84,28093,iodipamide,Moderate,87496
+85,28093,iodixanol,Moderate,80432
+86,28093,iohexol,Moderate,52403
+87,28093,iopamidol,Moderate,37446
+88,28093,iopanoic acid,Moderate,70029
+89,28093,iopromide,Moderate,37238
+90,28093,iothalamic acid,Moderate,46641
+91,28093,ioversol,Moderate,56265
+92,28093,ioxilan,Moderate,43286
+93,28093,iopodic acid,Moderate,71700
+94,28093,lanthanum carbonate,Moderate,73840
+95,28093,magnesium carbonate,Minor,81199
+96,28093,methacholine,Major,10610
+97,28093,nitrous acid,Moderate,58109
+98,28093,tyropanoic acid,Moderate,21328
+99,28093,acetylcysteine,Minor,52610
+100,28093,galactose,Minor,96974
+101,28093,ethanol,Moderate,53125
+102,28093,gadobenic acid,Moderate,94769
+103,28093,gadopentetic acid,Moderate,98875
+104,28093,calcium acetate,Moderate,46565
+105,28093,diatrizoate,Moderate,88649
+106,28093,gadodiamide,Moderate,98083
+107,28093,gadoteridol,Moderate,94746
+108,28093,gadoversetamide,Moderate,61006
+109,28093,physostigmine,Moderate,54250
+110,28093,prednisolone,Moderate,47261
+111,28093,promethazine,Moderate,39177
+112,28093,tolbutamide,Moderate,42128
+113,28093,leucovorin,Minor,51646
+114,28093,mannitol,Minor,33387
+115,28093,folic acid,Minor,81096
+116,28093,sevelamer,Minor,49368
+117,28093,deferoxamine,Minor,11347
+118,20365,sevelamer,Minor,49368
+119,20365,prednisolone,Minor,47261
+120,20365,promethazine,Minor,39177
+121,20365,leucovorin,Minor,51646
+122,20365,acetylcysteine,Minor,52610
+123,20365,galactose,Minor,96974
+124,20365,folic acid,Minor,81096
+125,50549,ethanol,Moderate,53125
+126,50549,histamine,Moderate,78313
+127,50549,promethazine,Moderate,39177
+128,50549,iodide i-123,Moderate,12814
+129,50549,iodide i-131,Moderate,89593
+130,50549,sevelamer,Minor,49368
+131,50549,prednisolone,Minor,47261
+132,50549,leucovorin,Minor,51646
+133,50549,acetylcysteine,Minor,52610
+134,50549,vitamin a,Minor,22945
+135,50549,folic acid,Minor,81096
+136,36135,ethanol,Moderate,53125
+137,36135,cobicistat,Minor,63331
+138,36135,deferasirox,Moderate,11731
+139,36135,iobenguane (i-123),Moderate,21716
+140,36135,ioflupane i-123,Moderate,92573
+141,36135,iohexol,Major,52403
+142,36135,iopamidol,Major,37446
+143,36135,macimorelin,Major,36916
+144,36135,mannitol,Moderate,33387
+145,36135,methylene blue,Major,64452
+146,36135,promethazine,Major,39177
+147,36135,tolbutamide,Moderate,42128
+148,36135,gadodiamide,Minor,98083
+149,36135,gadoversetamide,Minor,61006
+150,36135,sevelamer,Minor,49368
+151,36135,prednisolone,Minor,47261
+152,36135,naloxone,Minor,77812
+153,36135,iopromide,Minor,37238
+154,36135,leucovorin,Minor,51646
+155,36135,acetylcysteine,Minor,52610
+156,36135,galactose,Minor,96974
+157,36135,ibritumomab tiuxetan,Moderate,76531
+158,36135,tositumomab (i-131),Moderate,66679
+159,36135,tositumomab,Moderate,49493
+160,36135,caffeine,Minor,67487
+161,36135,folic acid,Minor,81096
+162,36135,hydroxocobalamin,Minor,34047
+163,82480,cobicistat,Moderate,63331
+164,82480,amyl nitrite,Moderate,58386
+165,82480,deferasirox,Moderate,11731
+166,82480,diazoxide,Moderate,10803
+167,82480,flumazenil,Moderate,80004
+168,82480,magnesium carbonate,Minor,81199
+169,82480,methylene blue,Moderate,64452
+170,82480,promethazine,Moderate,39177
+171,82480,iodide i-123,Moderate,12814
+172,82480,iodide i-131,Moderate,89593
+173,82480,ethanol,Moderate,53125
+174,82480,phentolamine,Moderate,95096
+175,82480,vitamin a,Minor,22945
+176,82480,caffeine,Minor,67487
+177,82480,leucovorin,Minor,51646
+178,82480,mannitol,Minor,33387
+179,82480,folic acid,Minor,81096
+180,82480,hydroxocobalamin,Minor,34047
+181,82480,gadodiamide,Minor,98083
+182,82480,sevelamer,Minor,49368
+183,82480,prednisolone,Minor,47261
+184,37753,methylene blue,Major,64452
+185,37753,deferasirox,Moderate,11731
+186,37753,iohexol,Major,52403
+187,37753,iopamidol,Major,37446
+188,37753,physostigmine,Moderate,54250
+189,37753,physostigmine (ophthalmic),Moderate,91596
+190,37753,promethazine,Moderate,39177
+191,37753,ethanol,Moderate,53125
+192,37753,leucovorin,Minor,51646
+193,37753,folic acid,Minor,81096
+194,37753,sevelamer,Minor,49368
+195,37753,prednisolone,Minor,47261
+196,36217,ethanol,Moderate,53125
+197,36217,diazoxide,Moderate,10803
+198,36217,prednisolone,Moderate,47261
+199,36217,promethazine,Moderate,39177
+200,36217,sermorelin,Moderate,18529
+201,36217,tolbutamide,Moderate,42128
+202,36969,ethanol,Moderate,53125
+203,36969,cobicistat,Moderate,63331
+204,36969,deferasirox,Moderate,11731
+205,36969,iobenguane (i-123),Moderate,21716
+206,36969,iobenguane (i-131),Major,28573
+207,36969,ioflupane i-123,Moderate,92573
+208,36969,iohexol,Major,52403
+209,36969,iopamidol,Major,37446
+210,36969,magnesium carbonate,Minor,81199
+211,36969,mannitol,Moderate,33387
+212,36969,methylene blue,Major,64452
+213,36969,promethazine,Moderate,39177
+214,36969,sevelamer,Minor,49368
+215,36969,leucovorin,Minor,51646
+216,36969,deferoxamine,Minor,11347
+217,36969,prednisolone,Minor,47261
+218,36969,caffeine,Moderate,67487
+219,36969,ibritumomab tiuxetan,Moderate,76531
+220,36969,tositumomab (i-131),Moderate,66679
+221,36969,tositumomab,Moderate,49493
+222,36969,folic acid,Minor,81096
+223,38112,cobicistat,Moderate,63331
+224,38112,deferasirox,Moderate,11731
+225,38112,metyrapone,Moderate,83027
+226,38112,prednisolone,Moderate,47261
+227,38112,tolbutamide,Moderate,42128
+228,38112,promethazine,Minor,39177
+229,38112,acetylcysteine,Minor,52610
+230,38112,leucovorin,Minor,51646
+231,38112,folic acid,Minor,81096
+232,38112,vitamin a,Minor,22945
+233,70754,magnesium carbonate,Minor,81199
+234,70754,promethazine,Moderate,39177
+235,70754,tolbutamide,Moderate,42128
+236,70754,iodixanol,Minor,80432
+237,70754,iohexol,Minor,52403
+238,70754,iopamidol,Minor,37446
+239,70754,ioversol,Minor,56265
+240,70754,acetylcysteine,Minor,52610
+241,70754,galactose,Minor,96974
+242,70754,vitamin a,Minor,22945
+243,70754,leucovorin,Minor,51646
+244,70754,mannitol,Minor,33387
+245,70754,folic acid,Minor,81096
+246,70754,gadodiamide,Minor,98083
+247,70754,sevelamer,Minor,49368
+248,70754,prednisolone,Minor,47261
+249,14645,acetylcysteine,Minor,52610
+250,14645,leucovorin,Minor,51646
+251,14645,folic acid,Minor,81096
+252,14645,sevelamer,Minor,49368
+253,14645,prednisolone,Minor,47261
+254,14645,promethazine,Minor,39177
+255,21436,cobicistat,Moderate,63331
+256,21436,promethazine,Moderate,39177
+257,21436,macimorelin,Major,36916
+258,21436,prednisolone,Moderate,47261
+259,21436,tolbutamide,Major,42128
+260,21436,gadodiamide,Minor,98083
+261,21436,sevelamer,Minor,49368
+262,21436,naloxone,Minor,77812
+263,21436,iopromide,Minor,37238
+264,21436,leucovorin,Minor,51646
+265,21436,mannitol,Minor,33387
+266,21436,deferoxamine,Minor,11347
+267,21436,amifostine,Minor,10853
+268,21436,acetylcysteine,Minor,52610
+269,21436,galactose,Minor,96974
+270,21436,vitamin a,Minor,22945
+271,21436,folic acid,Minor,81096
+272,21863,ethanol,Moderate,53125
+273,21863,cobicistat,Moderate,63331
+274,21863,methylene blue,Major,64452
+275,21863,deferasirox,Moderate,11731
+276,21863,iohexol,Major,52403
+277,21863,iopamidol,Major,37446
+278,21863,mannitol,Moderate,33387
+279,21863,promethazine,Moderate,39177
+280,21863,tolbutamide,Moderate,42128
+281,21863,ioflupane i-123,Moderate,92573
+282,21863,iobenguane (i-123),Moderate,21716
+283,21863,macimorelin,Major,36916
+284,21863,prednisolone,Minor,47261
+285,21863,leucovorin,Minor,51646
+286,21863,acetylcysteine,Minor,52610
+287,21863,ibritumomab tiuxetan,Moderate,76531
+288,21863,tositumomab (i-131),Moderate,66679
+289,21863,tositumomab,Moderate,49493
+290,21863,folic acid,Minor,81096
+291,82950,capecitabine,Major,52494
+292,82950,carbamazepine,Moderate,39249
+293,82950,cholestyramine,Moderate,37958
+294,82950,colestipol,Moderate,32511
+295,82950,valproic acid,Moderate,65462
+296,82950,phenobarbital,Moderate,47378
+297,82950,eslicarbazepine,Moderate,22062
+298,82950,ethosuximide,Moderate,83041
+299,82950,ethotoin,Moderate,35634
+300,82950,felbamate,Moderate,61693
+301,82950,fluorouracil,Major,44345
+302,82950,fosphenytoin,Moderate,47474
+303,82950,lamotrigine,Moderate,54988
+304,82950,mephenytoin,Moderate,36347
+305,82950,methylphenobarbital,Moderate,35887
+306,82950,methotrexate,Moderate,46028
+307,82950,methsuximide,Moderate,34687
+308,82950,oxcarbazepine,Moderate,29487
+309,82950,phensuximide,Moderate,35453
+310,82950,phenytoin,Moderate,88096
+311,82950,primidone,Moderate,71693
+312,82950,pyrimethamine,Moderate,11774
+313,82950,rufinamide,Moderate,55037
+314,82950,sulfadiazine,Moderate,47756
+315,82950,sulfadoxine,Moderate,11236
+316,82950,sulfamethizole,Moderate,15529
+317,82950,sulfamethoxazole,Moderate,38656
+318,82950,sulfasalazine,Minor,71500
+319,82950,sulfisoxazole,Moderate,25157
+320,82950,triamterene,Moderate,85831
+321,82950,trimethoprim,Moderate,26400
+322,82950,pravastatin,Minor,35374
+323,82950,valsartan,Minor,95848
+324,82950,ramipril,Minor,21466
+325,82950,lorazepam,Minor,26340
+326,82950,bortezomib,Minor,24001
+327,82950,tramadol,Minor,80820
+328,82950,hydroxocobalamin,Minor,34047
+329,82950,sildenafil,Minor,65915
+330,82950,dofetilide,Minor,69165
+331,82950,pantoprazole,Minor,40812
+332,82950,torasemide,Minor,71225
+333,82950,moxifloxacin,Minor,79257
+334,82950,nelfinavir,Minor,19277
+335,82950,glimepiride,Minor,34605
+336,82950,gadodiamide,Minor,98083
+337,82950,lovastatin,Minor,51144
+338,82950,pregabalin,Minor,67456
+339,82950,temazepam,Minor,51372
+340,82950,nevirapine,Minor,87195
+341,82950,mesalazine,Minor,44556
+342,82950,ziprasidone,Minor,90593
+343,82950,metoprolol,Minor,54315
+344,82950,ropinirole,Minor,52898
+345,82950,isradipine,Minor,11382
+346,82950,topiramate,Minor,65340
+347,82950,lidocaine,Minor,15008
+348,82950,pamidronic acid,Minor,68417
+349,82950,acarbose,Minor,68265
+350,82950,venlafaxine,Minor,83881
+351,82950,travoprost,Minor,55006
+352,82950,atomoxetine,Minor,68658
+353,82950,morphine,Minor,70901
+354,82950,ertapenem,Minor,52376
+355,82950,zolmitriptan,Minor,51494
+356,82950,gefitinib,Minor,26689
+357,82950,hydromorphone,Minor,85120
+358,82950,indomethacin,Minor,17312
+359,82950,metformin,Minor,88122
+360,82950,olanzapine,Minor,78176
+361,82950,omeprazole,Minor,84717
+362,82950,minoxidil,Minor,71199
+363,82950,vinorelbine,Minor,15216
+364,82950,sucralfate,Minor,44384
+365,82950,mirtazapine,Minor,64734
+366,82950,timolol,Minor,51183
+367,82950,palonosetron,Minor,46064
+368,82950,progesterone,Minor,40183
+369,82950,sorafenib,Minor,93358
+370,82950,zoledronic acid,Minor,69675
+371,82950,nisoldipine,Minor,35762
+372,82950,mupirocin,Minor,40066
+373,82950,rosiglitazone,Minor,80230
+374,82950,pramipexole,Minor,64853
+375,82950,spironolactone,Minor,99554
+376,82950,methylphenidate,Minor,47294
+377,82950,methocarbamol,Minor,20303
+378,82950,zolpidem,Minor,56369
+379,82950,prochlorperazine,Minor,95142
+380,82950,allopurinol,Minor,59389
+381,82950,gemcitabine,Minor,74950
+382,82950,lansoprazole,Minor,42975
+383,82950,meperidine,Minor,43530
+384,82950,loratadine,Minor,52482
+385,82950,imipramine,Minor,92274
+386,82950,nabumetone,Minor,87687
+387,82950,ketorolac,Minor,93530
+388,82950,montelukast,Minor,55642
+389,82950,duloxetine,Minor,69327
+390,82950,lenalidomide,Minor,50917
+391,82950,raloxifene,Minor,92458
+392,82950,sotalol,Minor,42228
+393,82950,fosinopril,Minor,25223
+394,82950,entacapone,Minor,30089
+395,82950,zidovudine,Minor,72177
+396,82950,darifenacin,Minor,45988
+397,82950,oxycodone,Minor,47185
+398,82950,haloperidol,Minor,47223
+399,82950,ritonavir,Minor,38445
+400,82950,vancomycin,Minor,24175
+401,82950,cisplatin,Minor,96938
+402,82950,metolazone,Minor,26819
+403,82950,oxaliplatin,Minor,96393
+404,82950,erlotinib,Minor,32149
+405,82950,rofecoxib,Minor,50575
+406,82950,cefdinir,Minor,36077
+407,82950,nortriptyline,Minor,54632
+408,82950,vincristine,Minor,81353
+409,82950,zafirlukast,Minor,94759
+410,82950,piroxicam,Minor,95916
+411,82950,hydroxyzine,Minor,17509
+412,82950,bosentan,Minor,72011
+413,82950,propranolol,Minor,46110
+414,82950,valaciclovir,Minor,77378
+415,82950,valdecoxib,Minor,12595
+416,82950,lactulose,Minor,38995
+417,82950,voriconazole,Minor,92144
+418,82950,nizatidine,Minor,76807
+419,82950,labetalol,Minor,58628
+420,82950,linezolid,Minor,86609
+421,82950,sulindac,Minor,50785
+422,82950,imatinib,Minor,64184
+423,82950,triamcinolone,Minor,20162
+424,82950,testosterone,Minor,43170
+425,82950,prednisone,Minor,13931
+426,82950,simvastatin,Minor,54841
+427,82950,pemetrexed,Minor,37644
+428,82950,nystatin,Minor,80129
+429,82950,stavudine,Minor,67802
+430,82950,latanoprost,Minor,16528
+431,82950,trazodone,Minor,25254
+432,82950,sevelamer,Minor,49368
+433,82950,sumatriptan,Minor,94943
+434,82950,aprepitant,Minor,98555
+435,82950,galantamine,Minor,21045
+436,82950,tamoxifen,Minor,80321
+437,82950,losartan,Minor,54203
+438,82950,warfarin,Minor,90187
+439,82950,moexipril,Minor,56534
+440,82950,furosemide,Minor,50656
+441,82950,tizanidine,Minor,30240
+442,82950,nitrofurantoin,Minor,58459
+443,82950,tamsulosin,Minor,35745
+444,82950,lamivudine,Minor,84758
+445,82950,ibandronate,Minor,78071
+446,82950,paroxetine,Minor,92364
+447,82950,lisinopril,Minor,47325
+448,82950,nitroglycerin,Minor,79989
+449,82950,nateglinide,Minor,53982
+450,82950,risperidone,Minor,90270
+451,82950,hydrocortisone,Minor,40793
+452,82950,modafinil,Minor,29901
+453,82950,isoflurane,Minor,39936
+454,82950,tretinoin,Minor,94977
+455,82950,tetracycline,Minor,24676
+456,82950,potassium chloride,Minor,25560
+457,82950,irinotecan,Minor,27651
+458,82950,olopatadine,Minor,99848
+459,82950,perindopril,Minor,23140
+460,82950,gentamicin,Minor,95324
+461,82950,pentoxifylline,Minor,33386
+462,82950,indapamide,Minor,28767
+463,82950,ribavirin,Minor,15865
+464,82950,meloxicam,Minor,33873
+465,82950,propofol,Minor,19134
+466,82950,tadalafil,Minor,91097
+467,82950,loperamide,Minor,86663
+468,82950,oxazepam,Minor,35483
+469,82950,terbinafine,Minor,34248
+470,82950,prednisolone,Minor,47261
+471,82950,vardenafil,Minor,11644
+472,82950,ranitidine,Minor,29495
+473,82950,tacrolimus,Minor,85314
+474,82950,sirolimus,Minor,98588
+475,82950,quinapril,Minor,78806
+476,82950,isosorbide dinitrate,Minor,48965
+477,82950,risedronic acid,Minor,26988
+478,82950,granisetron,Minor,49223
+479,82950,triazolam,Minor,17244
+480,82950,ondansetron,Minor,45546
+481,82950,bimatoprost,Minor,26719
+482,82950,zonisamide,Minor,47327
+483,82950,paricalcitol,Minor,48831
+484,82950,repaglinide,Minor,33602
+485,82950,metronidazole,Minor,10709
+486,82950,misoprostol,Minor,78940
+487,82950,salmeterol,Minor,29282
+488,82950,isoniazid,Minor,43526
+489,82950,rizatriptan,Minor,91783
+490,82950,carboplatin,Minor,98292
+491,82950,methylprednisolone,Minor,17704
+492,82950,zaleplon,Minor,95745
+493,82950,telmisartan,Minor,49659
+494,82950,desloratadine,Minor,71616
+495,82950,methyldopa,Minor,47840
+496,82950,selenium sulfide,Minor,21169
+497,82950,ezetimibe,Minor,66230
+498,82950,telithromycin,Minor,33311
+499,82950,formoterol,Minor,63789
+500,82950,rivastigmine,Minor,81147
+501,82950,oxaprozin,Minor,18904
+502,82950,auranofin,Minor,71321
+503,82950,gabapentin,Minor,85255
+504,82950,hydrochlorothiazide,Minor,68061
+505,82950,ganciclovir,Minor,44379
+506,82950,hydroxyurea,Minor,33470
+507,82950,letrozole,Minor,94919
+508,82950,ketoprofen,Minor,49466
+509,82950,cinacalcet,Minor,60687
+510,82950,balsalazide,Minor,75976
+511,82950,glyburide,Minor,82121
+512,82950,isosorbide mononitrate,Minor,89514
+513,82950,phylloquinone,Minor,50900
+514,82950,irbesartan,Minor,69771
+515,82950,probenecid,Minor,25225
+516,82950,mercaptopurine,Minor,91511
+517,82950,tolterodine,Minor,98110
+518,82950,thalidomide,Minor,78536
+519,82950,memantine,Minor,38398
+520,82950,gatifloxacin,Minor,94760
+521,82950,rifampicin,Minor,11937
+522,82950,ibuprofen,Minor,88193
+523,82950,norfloxacin,Minor,93663
+524,82950,oxybutynin,Minor,85933
+525,82950,glipizide,Minor,94934
+526,82950,promethazine,Minor,39177
+527,82950,atazanavir,Minor,23132
+528,82950,tegaserod,Minor,55724
+529,82950,orlistat,Minor,15857
+530,82950,pilocarpine,Minor,27792
+531,82950,iloprost,Minor,60107
+532,82950,leflunomide,Minor,30770
+533,82950,rosuvastatin,Minor,86896
+534,82950,sertraline,Minor,21710
+535,82950,nifedipine,Minor,66370
+536,82950,atovaquone,Minor,59112
+537,82950,dutasteride,Minor,33821
+538,82950,rabeprazole,Minor,30942
+539,82950,pioglitazone,Minor,34014
+540,82950,terazosin,Minor,77698
+541,82950,calcium chloride,Minor,59608
+542,82950,ofloxacin,Minor,18951
+543,82950,itraconazole,Minor,93333
+544,82950,arsenic trioxide,Minor,40506
+545,82950,orphenadrine,Minor,79593
+546,82950,zopiclone,Minor,97821
+547,82950,levetiracetam,Minor,30087
+548,82950,nadolol,Minor,80398
+549,82950,mitoxantrone,Minor,89941
+550,82950,clarithromycin,Minor,76537
+551,82950,quetiapine,Minor,88139
+552,82950,paclitaxel,Minor,54386
+553,82950,metoclopramide,Minor,73750
+554,82950,aripiprazole,Minor,91442
+555,82950,gemfibrozil,Minor,77159
+556,82950,varenicline,Minor,58773
+557,82950,pirbuterol,Minor,95540
+558,82950,sodium bicarbonate,Minor,85400
+559,82950,tiotropium,Minor,36907
+560,82950,ursodeoxycholic acid,Minor,51352
+561,82950,nitrazepam,Minor,38499
+562,82950,valganciclovir,Minor,14601
+563,82950,hydroxychloroquine,Minor,86375
+564,82950,ambrisentan,Minor,24263
+565,82950,clobetasol,Minor,99702
+566,82950,fluticasone,Minor,35685
+567,82950,vitamin a,Minor,22945
+568,82950,flunisolide,Minor,82829
+569,82950,baclofen,Minor,85925
+570,82950,nicotine,Minor,74556
+571,82950,fluconazole,Minor,48757
+572,82950,erythromycin,Minor,89027
+573,82950,caffeine,Minor,67487
+574,82950,azithromycin,Minor,78791
+575,82950,citalopram,Minor,51554
+576,82950,cabergoline,Minor,64804
+577,82950,dapsone,Minor,22132
+578,82950,doxycycline,Minor,64933
+579,82950,clotrimazole,Minor,10750
+580,82950,carmustine,Minor,40607
+581,82950,theophylline,Minor,81502
+582,82950,liothyronine,Minor,52010
+583,82950,chlorthalidone,Minor,15583
+584,82950,acetaminophen,Minor,81736
+585,82950,dihydroergotamine,Minor,39123
+586,82950,amitriptyline,Minor,19708
+587,82950,ethambutol,Minor,25705
+588,82950,atenolol,Minor,57976
+589,82950,pyrazinamide,Minor,90764
+590,82950,cetirizine,Minor,30317
+591,82950,diltiazem,Minor,39453
+592,82950,alfuzosin,Minor,35417
+593,82950,chlorzoxazone,Minor,14179
+594,82950,clozapine,Minor,78850
+595,82950,amlodipine,Minor,38693
+596,82950,digoxin,Minor,81966
+597,82950,carisoprodol,Minor,44815
+598,82950,alprazolam,Minor,53064
+599,82950,ampicillin,Minor,82819
+600,82950,famciclovir,Minor,16361
+601,82950,ceftazidime,Minor,17749
+602,82950,cerivastatin,Minor,11997
+603,82950,chloramphenicol,Minor,46154
+604,82950,droperidol,Minor,59453
+605,82950,levothyroxine,Minor,33420
+606,82950,fluoxetine,Minor,70354
+607,82950,chlordiazepoxide,Minor,20537
+608,82950,chlorpromazine,Minor,98221
+609,82950,celecoxib,Minor,41017
+610,82950,brimonidine,Minor,97369
+611,82950,buspirone,Minor,66381
+612,82950,cefotaxime,Minor,22303
+613,82950,cimetidine,Minor,97117
+614,82950,aminocaproic acid,Minor,99632
+615,82950,dextromethorphan,Minor,55140
+616,82950,cyclophosphamide,Minor,53073
+617,82950,ciprofloxacin,Minor,19877
+618,82950,benazepril,Minor,90825
+619,82950,cephalexin,Minor,24936
+620,82950,clonidine,Minor,59962
+621,82950,levocarnitine,Minor,34149
+622,82950,enalapril,Minor,96791
+623,82950,diclofenac,Minor,47092
+624,82950,doxazosin,Minor,43420
+625,82950,chloroquine,Minor,24911
+626,82950,butorphanol,Minor,99807
+627,82950,bisoprolol,Minor,59580
+628,82950,fluphenazine,Minor,86673
+629,82950,efavirenz,Minor,62337
+630,82950,niacin,Minor,69623
+631,82950,alendronic acid,Minor,45403
+632,82950,adenosine,Minor,85956
+633,82950,leucovorin,Minor,51646
+634,82950,verapamil,Minor,43771
+635,82950,epinephrine,Minor,91450
+636,82950,amphotericin b,Minor,14846
+637,82950,flurazepam,Minor,21937
+638,82950,flurbiprofen,Minor,29894
+639,82950,mannitol,Minor,33387
+640,82950,deferoxamine,Minor,11347
+641,82950,etodolac,Minor,81084
+642,82950,dolasetron,Minor,24223
+643,82950,clopidogrel,Minor,61348
+644,82950,alprostadil,Minor,53527
+645,82950,etoposide,Minor,35341
+646,82950,estradiol,Minor,34872
+647,82950,acyclovir,Minor,74179
+648,82950,naproxen,Minor,73159
+649,82950,dicyclomine,Minor,24249
+650,82950,fentanyl,Minor,39211
+651,82950,acetazolamide,Minor,15732
+652,82950,diazepam,Minor,44161
+653,82950,cefaclor,Minor,43943
+654,82950,donepezil,Minor,10986
+655,82950,diflunisal,Minor,97691
+656,82950,chlorhexidine,Minor,66412
+657,82950,chlorothiazide,Minor,22844
+658,82950,bumetanide,Minor,51399
+659,82950,didanosine,Minor,69369
+660,82950,quinidine,Minor,49070
+661,82950,amantadine,Minor,39031
+662,82950,buprenorphine,Minor,79566
+663,82950,cyclobenzaprine,Minor,66649
+664,82950,famotidine,Minor,50756
+665,82950,acetylsalicylic acid,Minor,25522
+666,82950,fexofenadine,Minor,34492
+667,82950,dactinomycin,Minor,77503
+668,82950,azelastine,Minor,96008
+669,82950,dipyridamole,Minor,61510
+670,82950,cytarabine,Minor,85605
+671,82950,azathioprine,Minor,37353
+672,82950,doxorubicin,Minor,71772
+673,82950,salbutamol,Minor,38698
+674,82950,felodipine,Minor,95994
+675,82950,fenofibrate,Minor,27647
+676,82950,fluocinonide,Minor,77851
+677,82950,abacavir,Minor,40003
+678,82950,amoxicillin,Minor,98592
+679,82950,clonazepam,Minor,78212
+680,82950,fludarabine,Minor,36844
+681,82950,atorvastatin,Minor,77607
+682,82950,etidronic acid,Minor,61121
+683,82950,fluvastatin,Minor,91443
+684,82950,heparin,Minor,69544
+685,82950,cefuroxime,Minor,51268
+686,82950,amiodarone,Minor,90581
+687,82950,econazole,Minor,88477
+688,82950,bicalutamide,Minor,18402
+689,82950,carvedilol,Minor,80748
+690,82950,cefadroxil,Minor,12371
+691,82950,doxepin,Minor,36934
+692,82950,cefprozil,Minor,92634
+693,82950,bupropion,Minor,83643
+694,82950,ciclopirox,Minor,43950
+695,82950,clindamycin,Minor,30442
+696,82950,acebutolol,Minor,17694
+697,82950,flecainide,Minor,94264
+698,82950,captopril,Minor,65537
+699,82950,flumazenil,Minor,80004
+700,82950,ceftriaxone,Minor,47237
+701,82950,estazolam,Minor,81196
+702,82950,finasteride,Minor,27075
+703,82950,anastrozole,Minor,91049
+704,82950,budesonide,Minor,19682
+705,82950,dexamethasone,Minor,27589
+706,82950,epoprostenol,Minor,12454
+707,82950,docetaxel,Minor,62050
+708,82950,cefazolin,Minor,10089
+709,82950,danazol,Minor,84275
+710,82950,cefepime,Minor,52515
+711,82950,calcipotriol,Minor,56524
+712,82950,gamma-aminobutyric acid,Minor,74943
+713,82950,acetylcysteine,Minor,52610
+714,82950,vitamin d,Minor,10915
+715,82950,galactose,Minor,96974
+716,82950,pancrelipase,Moderate,64536
+717,82950,cyclosporine,Minor,87297
+718,82950,cyanocobalamin,Minor,51371
+719,82950,calcitriol,Minor,56268
+720,82950,octreotide,Minor,84079
+721,55882,ethanol,Moderate,53125
+722,55882,amifostine,Moderate,10853
+723,55882,iothalamic acid,Moderate,46641
+724,55882,promethazine,Moderate,39177
+725,55882,nitrous acid,Moderate,58109
+726,55882,iopromide,Moderate,37238
+727,55882,iopamidol,Moderate,37446
+728,55882,iohexol,Moderate,52403
+729,55882,sodium zirconium cyclosilicate,Moderate,27610
+730,55882,prednisolone,Moderate,47261
+731,55882,iodipamide,Moderate,87496
+732,55882,iodixanol,Moderate,80432
+733,55882,ioversol,Moderate,56265
+734,55882,ioxilan,Moderate,43286
+735,55882,tolbutamide,Moderate,42128
+736,55882,naloxone,Minor,77812
+737,55882,mannitol,Minor,33387
+738,55882,deferoxamine,Minor,11347
+739,55882,flumazenil,Minor,80004
+740,55882,acetylcysteine,Minor,52610
+741,55882,galactose,Minor,96974
+742,55882,diatrizoate,Moderate,88649
+743,55882,folic acid,Minor,81096
+744,55882,vitamin a,Minor,22945
+745,55882,leucovorin,Minor,51646
+746,55882,gadodiamide,Minor,98083
+747,55882,gadoversetamide,Minor,61006
+748,55882,sevelamer,Minor,49368
+749,96473,promethazine,Moderate,39177
+750,96473,magnesium carbonate,Minor,81199
+751,96473,iopromide,Minor,37238
+752,96473,acetylcysteine,Minor,52610
+753,96473,galactose,Minor,96974
+754,96473,ethanol,Moderate,53125
+755,96473,folic acid,Minor,81096
+756,96473,leucovorin,Minor,51646
+757,96473,mannitol,Minor,33387
+758,96473,gadodiamide,Minor,98083
+759,96473,gadoversetamide,Minor,61006
+760,96473,sevelamer,Minor,49368
+761,96473,prednisolone,Minor,47261
+762,31608,amifostine,Moderate,10853
+763,31608,diazoxide,Moderate,10803
+764,31608,iodipamide,Moderate,87496
+765,31608,iodixanol,Moderate,80432
+766,31608,iohexol,Moderate,52403
+767,31608,iopamidol,Moderate,37446
+768,31608,iopromide,Moderate,37238
+769,31608,iothalamic acid,Moderate,46641
+770,31608,ioversol,Moderate,56265
+771,31608,ioxilan,Moderate,43286
+772,31608,promethazine,Moderate,39177
+773,31608,nitrous acid,Moderate,58109
+774,31608,tolbutamide,Moderate,42128
+775,31608,acetylcysteine,Minor,52610
+776,31608,ethanol,Moderate,53125
+777,31608,calcium acetate,Moderate,46565
+778,31608,diatrizoate,Moderate,88649
+779,31608,prednisolone,Moderate,47261
+780,31608,folic acid,Minor,81096
+781,31608,leucovorin,Minor,51646
+782,31608,gadoversetamide,Minor,61006
+783,31608,sevelamer,Minor,49368
+784,47557,deferasirox,Major,11731
+785,47557,iodipamide,Major,87496
+786,47557,iodixanol,Major,80432
+787,47557,iohexol,Major,52403
+788,47557,iopamidol,Major,37446
+789,47557,iopromide,Major,37238
+790,47557,iothalamic acid,Major,46641
+791,47557,ioversol,Major,56265
+792,47557,ioxilan,Major,43286
+793,47557,macimorelin,Moderate,36916
+794,47557,potassium iodide,Moderate,44902
+795,47557,tolbutamide,Moderate,42128
+796,47557,promethazine,Minor,39177
+797,47557,acetylcysteine,Minor,52610
+798,47557,galactose,Minor,96974
+799,47557,diatrizoate,Major,88649
+800,47557,ethanol,Moderate,53125
+801,47557,ibritumomab tiuxetan,Major,76531
+802,47557,tositumomab (i-131),Major,66679
+803,47557,prednisolone,Moderate,47261
+804,47557,tositumomab,Major,49493
+805,47557,folic acid,Minor,81096
+806,47557,caffeine,Minor,67487
+807,47557,leucovorin,Minor,51646
+808,47557,mannitol,Minor,33387
+809,47557,sevelamer,Minor,49368
+810,74520,macimorelin,Moderate,36916
+811,74520,ethanol,Moderate,53125
+812,74520,diazoxide,Moderate,10803
+813,74520,phentolamine,Minor,95096
+814,74520,promethazine,Moderate,39177
+815,74520,fludeoxyglucose (18f),Moderate,38705
+816,74520,prednisolone,Moderate,47261
+817,74520,sermorelin,Moderate,18529
+818,74520,tolbutamide,Moderate,42128
+819,31396,ethanol,Moderate,53125
+820,31396,diazoxide,Moderate,10803
+821,31396,phentolamine,Minor,95096
+822,31396,promethazine,Moderate,39177
+823,31396,fludeoxyglucose (18f),Moderate,38705
+824,31396,macimorelin,Moderate,36916
+825,31396,prednisolone,Moderate,47261
+826,31396,tolbutamide,Moderate,42128
+827,31396,sermorelin,Moderate,18529
+828,84154,ethanol,Moderate,53125
+829,84154,diazoxide,Moderate,10803
+830,84154,phentolamine,Minor,95096
+831,84154,macimorelin,Moderate,36916
+832,84154,promethazine,Moderate,39177
+833,84154,prednisolone,Moderate,47261
+834,84154,fludeoxyglucose (18f),Moderate,38705
+835,84154,tolbutamide,Moderate,42128
+836,84154,sermorelin,Moderate,18529
+837,46442,acetylcysteine,Minor,52610
+838,46442,ethanol,Moderate,53125
+839,46442,promethazine,Moderate,39177
+840,46442,folic acid,Minor,81096
+841,46442,leucovorin,Minor,51646
+842,46442,mannitol,Minor,33387
+843,46442,prednisolone,Minor,47261
+844,46442,sevelamer,Minor,49368
+845,69373,tetraferric tricitrate decahydrate,Moderate,57852
+846,69373,lanthanum carbonate,Moderate,73840
+847,69373,magnesium carbonate,Moderate,81199
+848,69373,sevelamer,Moderate,49368
+849,69373,iodide i-131,Moderate,89593
+850,69373,tolevamer,Moderate,30109
+851,69373,iron sucrose,Moderate,84603
+852,69373,tolbutamide,Moderate,42128
+853,69373,gadoversetamide,Minor,61006
+854,69373,deferoxamine,Minor,11347
+855,69373,prednisolone,Minor,47261
+856,69373,promethazine,Minor,39177
+857,69373,amifostine,Minor,10853
+858,69373,naloxone,Minor,77812
+859,69373,iodixanol,Minor,80432
+860,69373,ioversol,Minor,56265
+861,69373,iopromide,Minor,37238
+862,69373,leucovorin,Minor,51646
+863,69373,mannitol,Minor,33387
+864,69373,acetylcysteine,Minor,52610
+865,69373,galactose,Minor,96974
+866,69373,calcium acetate,Moderate,46565
+867,69373,folic acid,Minor,81096
+868,69373,vitamin a,Minor,22945
+869,69373,hydroxocobalamin,Minor,34047
+870,69373,gadodiamide,Minor,98083
+871,85845,amifostine,Moderate,10853
+872,85845,potassium iodide,Major,44902
+873,85845,promethazine,Moderate,39177
+874,85845,nitrous acid,Moderate,58109
+875,85845,iron sucrose,Moderate,84603
+876,85845,lanthanum carbonate,Moderate,73840
+877,85845,magnesium carbonate,Minor,81199
+878,85845,mannitol,Moderate,33387
+879,85845,prednisolone,Moderate,47261
+880,85845,tolbutamide,Moderate,42128
+881,85845,deferoxamine,Minor,11347
+882,85845,iodixanol,Minor,80432
+883,85845,acetylcysteine,Minor,52610
+884,85845,iopromide,Minor,37238
+885,85845,galactose,Minor,96974
+886,85845,folic acid,Minor,81096
+887,85845,vitamin a,Minor,22945
+888,85845,leucovorin,Minor,51646
+889,85845,hydroxocobalamin,Minor,34047
+890,85845,gadodiamide,Minor,98083
+891,85845,gadoversetamide,Minor,61006
+892,85845,sevelamer,Minor,49368
+893,35400,amifostine,Moderate,10853
+894,35400,potassium iodide,Major,44902
+895,35400,promethazine,Moderate,39177
+896,35400,nitrous acid,Moderate,58109
+897,35400,prednisolone,Moderate,47261
+898,35400,tolbutamide,Minor,42128
+899,35400,mannitol,Minor,33387
+900,35400,acetylcysteine,Minor,52610
+901,35400,iopromide,Minor,37238
+902,35400,galactose,Minor,96974
+903,35400,folic acid,Minor,81096
+904,35400,leucovorin,Minor,51646
+905,35400,gadodiamide,Minor,98083
+906,35400,sevelamer,Minor,49368
+907,49225,ethanol,Moderate,53125
+908,49225,iothalamic acid,Major,46641
+909,49225,deferasirox,Major,11731
+910,49225,tolevamer,Major,30109
+911,49225,iopromide,Major,37238
+912,49225,iopamidol,Major,37446
+913,49225,macimorelin,Moderate,36916
+914,49225,iodipamide,Major,87496
+915,49225,iodixanol,Major,80432
+916,49225,iohexol,Major,52403
+917,49225,ioversol,Major,56265
+918,49225,ioxilan,Major,43286
+919,49225,potassium iodide,Moderate,44902
+920,49225,prednisolone,Moderate,47261
+921,49225,tolbutamide,Moderate,42128
+922,49225,promethazine,Minor,39177
+923,49225,galactose,Minor,96974
+924,49225,diatrizoate,Major,88649
+925,49225,ibritumomab tiuxetan,Major,76531
+926,49225,tositumomab (i-131),Major,66679
+927,49225,tositumomab,Major,49493
+928,49225,folic acid,Minor,81096
+929,49225,leucovorin,Minor,51646
+930,91234,ethanol,Major,53125
+931,91234,diazoxide,Moderate,10803
+932,91234,iodipamide,Major,87496
+933,91234,iodixanol,Major,80432
+934,91234,iohexol,Major,52403
+935,91234,iopamidol,Major,37446
+936,91234,iopromide,Major,37238
+937,91234,iothalamic acid,Major,46641
+938,91234,ioversol,Major,56265
+939,91234,ioxilan,Major,43286
+940,91234,prednisolone,Moderate,47261
+941,91234,tolbutamide,Moderate,42128
+942,91234,promethazine,Moderate,39177
+943,91234,gadoversetamide,Minor,61006
+944,91234,leucovorin,Minor,51646
+945,91234,acetylcysteine,Minor,52610
+946,91234,galactose,Minor,96974
+947,91234,diatrizoate,Major,88649
+948,91234,sermorelin,Moderate,18529
+949,91234,folic acid,Minor,81096
+950,91234,vitamin a,Minor,22945
+951,98436,ethanol,Moderate,53125
+952,98436,diazoxide,Moderate,10803
+953,98436,phentolamine,Moderate,95096
+954,98436,promethazine,Moderate,39177
+955,98436,amyl nitrite,Moderate,58386
+956,98436,prednisolone,Minor,47261
+957,98436,leucovorin,Minor,51646
+958,98436,folic acid,Minor,81096
+959,53383,ethanol,Moderate,53125
+960,53383,iobenguane (i-123),Moderate,21716
+961,53383,iobenguane (i-131),Major,28573
+962,53383,ioflupane i-123,Moderate,92573
+963,53383,iohexol,Major,52403
+964,53383,iopamidol,Major,37446
+965,53383,methylene blue,Major,64452
+966,53383,promethazine,Moderate,39177
+967,53383,prednisolone,Minor,47261
+968,53383,leucovorin,Minor,51646
+969,53383,folic acid,Minor,81096
+970,14492,cobicistat,Major,63331
+971,14492,deferasirox,Major,11731
+972,14492,diazoxide,Moderate,10803
+973,14492,tolevamer,Moderate,30109
+974,14492,iopamidol,Major,37446
+975,14492,iodide i-131,Moderate,89593
+976,14492,macimorelin,Moderate,36916
+977,14492,edrophonium,Moderate,70341
+978,14492,iohexol,Major,52403
+979,14492,iodide i-123,Moderate,12814
+980,14492,tolbutamide,Moderate,42128
+981,14492,promethazine,Minor,39177
+982,14492,naloxone,Minor,77812
+983,14492,flumazenil,Minor,80004
+984,14492,acetylcysteine,Minor,52610
+985,14492,galactose,Minor,96974
+986,14492,magnesium sulfate,Moderate,16998
+987,14492,folic acid,Minor,81096
+988,14492,leucovorin,Minor,51646
+989,14492,mannitol,Minor,33387
+990,14492,prednisolone,Minor,47261
+991,32767,iodide i-131,Moderate,89593
+992,32767,promethazine,Minor,39177
+993,32767,macimorelin,Minor,36916
+994,32767,iodide i-123,Moderate,12814
+995,32767,naloxone,Minor,77812
+996,32767,acetylcysteine,Minor,52610
+997,32767,iopromide,Minor,37238
+998,32767,galactose,Minor,96974
+999,32767,ethanol,Major,53125
+1000,32767,folic acid,Minor,81096
+1001,32767,leucovorin,Minor,51646
+1002,32767,mannitol,Minor,33387
+1003,32767,sevelamer,Minor,49368
+1004,32767,prednisolone,Minor,47261
+1005,64873,ethanol,Major,53125
+1006,64873,amyl nitrite,Moderate,58386
+1007,64873,diazoxide,Moderate,10803
+1008,64873,iohexol,Major,52403
+1009,64873,iopamidol,Major,37446
+1010,64873,methylene blue,Major,64452
+1011,64873,naloxone,Moderate,77812
+1012,64873,phentolamine,Moderate,95096
+1013,64873,promethazine,Moderate,39177
+1014,64873,sevelamer,Minor,49368
+1015,64873,prednisolone,Minor,47261
+1016,64873,leucovorin,Minor,51646
+1017,64873,mannitol,Minor,33387
+1018,64873,flumazenil,Minor,80004
+1019,64873,iodixanol,Minor,80432
+1020,64873,acetylcysteine,Minor,52610
+1021,64873,ioversol,Minor,56265
+1022,64873,iopromide,Minor,37238
+1023,64873,galactose,Minor,96974
+1024,64873,folic acid,Minor,81096
+1025,64873,caffeine,Minor,67487
+1026,15641,tolevamer,Moderate,30109
+1027,15641,tolbutamide,Minor,42128
+1028,15641,gadoversetamide,Minor,61006
+1029,15641,sevelamer,Minor,49368
+1030,15641,prednisolone,Minor,47261
+1031,15641,promethazine,Minor,39177
+1032,15641,leucovorin,Minor,51646
+1033,15641,mannitol,Minor,33387
+1034,15641,deferoxamine,Minor,11347
+1035,15641,amifostine,Minor,10853
+1036,15641,naloxone,Minor,77812
+1037,15641,flumazenil,Minor,80004
+1038,15641,iodixanol,Minor,80432
+1039,15641,acetylcysteine,Minor,52610
+1040,15641,iopamidol,Minor,37446
+1041,15641,ioversol,Minor,56265
+1042,15641,iopromide,Minor,37238
+1043,15641,galactose,Minor,96974
+1044,15641,folic acid,Minor,81096
+1045,15641,vitamin a,Minor,22945
+1046,15641,hydroxocobalamin,Minor,34047
+1047,15641,gadodiamide,Minor,98083
+1048,77888,ethanol,Moderate,53125
+1049,77888,cobicistat,Moderate,63331
+1050,77888,methylene blue,Major,64452
+1051,77888,promethazine,Moderate,39177
+1052,77888,levoleucovorin,Moderate,42956
+1053,77888,macimorelin,Moderate,36916
+1054,77888,prednisolone,Moderate,47261
+1055,77888,tolbutamide,Moderate,42128
+1056,77888,folic acid,Moderate,81096
+1057,77888,leucovorin,Moderate,51646
+1058,77888,sevelamer,Minor,49368
+1059,59213,promethazine,Major,39177
+1060,59213,prednisolone,Minor,47261
+1061,59213,tolbutamide,Minor,42128
+1062,59213,naloxone,Minor,77812
+1063,59213,iodixanol,Minor,80432
+1064,59213,acetylcysteine,Minor,52610
+1065,59213,ioversol,Minor,56265
+1066,59213,iopromide,Minor,37238
+1067,59213,galactose,Minor,96974
+1068,59213,folic acid,Minor,81096
+1069,59213,vitamin a,Minor,22945
+1070,59213,leucovorin,Minor,51646
+1071,59213,mannitol,Minor,33387
+1072,59213,gadodiamide,Minor,98083
+1073,59213,sevelamer,Minor,49368
+1074,23393,cobicistat,Moderate,63331
+1075,23393,deferasirox,Major,11731
+1076,23393,diazoxide,Moderate,10803
+1077,23393,tolevamer,Moderate,30109
+1078,23393,magnesium sulfate,Moderate,16998
+1079,23393,iodide i-131,Moderate,89593
+1080,23393,macimorelin,Moderate,36916
+1081,23393,edrophonium,Moderate,70341
+1082,23393,iodide i-123,Moderate,12814
+1083,23393,tolbutamide,Moderate,42128
+1084,23393,sevelamer,Minor,49368
+1085,23393,promethazine,Minor,39177
+1086,23393,leucovorin,Minor,51646
+1087,23393,mannitol,Minor,33387
+1088,23393,deferoxamine,Minor,11347
+1089,23393,prednisolone,Minor,47261
+1090,23393,iodixanol,Minor,80432
+1091,23393,acetylcysteine,Minor,52610
+1092,23393,ioversol,Minor,56265
+1093,23393,iopromide,Minor,37238
+1094,23393,galactose,Minor,96974
+1095,23393,folic acid,Minor,81096
+1096,23393,vitamin a,Minor,22945
+1097,23393,gadodiamide,Minor,98083
+1098,23393,gadoversetamide,Minor,61006
+1099,39366,cobicistat,Major,63331
+1100,39366,deferasirox,Moderate,11731
+1101,39366,ioflupane i-123,Moderate,92573
+1102,39366,iopamidol,Major,37446
+1103,39366,macimorelin,Major,36916
+1104,39366,iohexol,Major,52403
+1105,39366,amyl nitrite,Moderate,58386
+1106,39366,acetylcysteine,Minor,52610
+1107,39366,iopromide,Minor,37238
+1108,39366,galactose,Minor,96974
+1109,39366,ethanol,Minor,53125
+1110,39366,diazoxide,Moderate,10803
+1111,39366,phentolamine,Moderate,95096
+1112,39366,promethazine,Moderate,39177
+1113,39366,physostigmine,Moderate,54250
+1114,39366,physostigmine (ophthalmic),Moderate,91596
+1115,39366,tolbutamide,Moderate,42128
+1116,39366,folic acid,Minor,81096
+1117,39366,caffeine,Minor,67487
+1118,39366,leucovorin,Minor,51646
+1119,39366,mannitol,Minor,33387
+1120,39366,prednisolone,Minor,47261
+1121,39366,sevelamer,Minor,49368
+1122,62103,cobicistat,Moderate,63331
+1123,62103,magnesium carbonate,Moderate,81199
+1124,62103,acetylcysteine,Minor,52610
+1125,62103,iopamidol,Minor,37446
+1126,62103,ioversol,Minor,56265
+1127,62103,ethanol,Moderate,53125
+1128,62103,folic acid,Minor,81096
+1129,62103,leucovorin,Minor,51646
+1130,62103,sevelamer,Minor,49368
+1131,62103,prednisolone,Minor,47261
+1132,62103,promethazine,Minor,39177
+1133,82344,ethanol,Moderate,53125
+1134,82344,diazoxide,Moderate,10803
+1135,82344,promethazine,Moderate,39177
+1136,82344,prednisolone,Moderate,47261
+1137,82344,sermorelin,Moderate,18529
+1138,82344,tolbutamide,Moderate,42128
+1139,71225,cobicistat,Moderate,63331
+1140,71225,methylene blue,Major,64452
+1141,71225,deferasirox,Moderate,11731
+1142,71225,ioflupane i-123,Moderate,92573
+1143,71225,iopamidol,Major,37446
+1144,71225,iobenguane (i-123),Moderate,21716
+1145,71225,macimorelin,Major,36916
+1146,71225,iohexol,Major,52403
+1147,71225,tolbutamide,Moderate,42128
+1148,71225,acetylcysteine,Minor,52610
+1149,71225,iopromide,Minor,37238
+1150,71225,galactose,Minor,96974
+1151,71225,ethanol,Moderate,53125
+1152,71225,promethazine,Moderate,39177
+1153,71225,mannitol,Moderate,33387
+1154,71225,ibritumomab tiuxetan,Moderate,76531
+1155,71225,tositumomab (i-131),Moderate,66679
+1156,71225,tositumomab,Moderate,49493
+1157,71225,folic acid,Minor,81096
+1158,71225,leucovorin,Minor,51646
+1159,71225,prednisolone,Minor,47261
+1160,71225,hydroxocobalamin,Minor,34047
+1161,71225,gadodiamide,Minor,98083
+1162,71225,gadoversetamide,Minor,61006
+1163,71225,sevelamer,Minor,49368
+1164,99196,ethanol,Moderate,53125
+1165,99196,amifostine,Moderate,10853
+1166,99196,cobicistat,Moderate,63331
+1167,99196,deferasirox,Moderate,11731
+1168,99196,diazoxide,Minor,10803
+1169,99196,nitrous acid,Moderate,58109
+1170,99196,amyl nitrite,Major,58386
+1171,99196,prednisolone,Minor,47261
+1172,99196,phentolamine,Moderate,95096
+1173,99196,folic acid,Minor,81096
+1174,70547,deferasirox,Moderate,11731
+1175,70547,prednisolone,Moderate,47261
+1176,70547,tolbutamide,Moderate,42128
+1177,70547,sevelamer,Minor,49368
+1178,70547,leucovorin,Minor,51646
+1179,70547,deferoxamine,Minor,11347
+1180,70547,promethazine,Minor,39177
+1181,70547,folic acid,Minor,81096
+1182,70547,gadodiamide,Minor,98083

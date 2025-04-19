@@ -4,31 +4,32 @@ document.addEventListener("DOMContentLoaded", function () {
       e.preventDefault();
       login(new FormData(e.target));
     });
-    function login(body) {
-      send(body);
-      if(body.get("roles") == "Doctor") {
-        console.log("Doctor");
-        window.location.href = "./dashboard-doctor.html";
-      } else if (body.get("roles") == "Patient") {
-        console.log("Patient");
-        window.location.href = "./dashboard-patient.html";
-      } else {
-        console.log("Pharmacy");
-        window.location.href = "./dashboard-pharma.html";
-      }
-    }
-    async function send(formData) {
+    async function login(body) {
       var formObj = {};
-      formData.forEach((value, key) => {
+      body.forEach((value, key) => {
         formObj[key] = value;
       });
-      await fetch('http://localhost:5000/login', {
+      const response = await fetch('http://localhost:5000/login', {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ ...formObj }),
       })
-      .then(response => response.text())
-      .then(data => console.log(data));
+      .then(response => response.json());
+      console.log(response);
+      console.log(response["state"]);
+      console.log(response["role"]);
+      if(response["state"] == "t" && response["role"] == "Patient") {
+        sessionStorage.setItem("id", formObj["id"]);
+        window.location.href = "./dashboard-patient.html";
+      } else if(response["state"] == "t" && response["role"] == "Doctor") {
+        sessionStorage.setItem("id", formObj["id"]);
+        window.location.href = "./dashboard-doctor.html";
+      } else if(response["state"] == "t" && response["role"] == "Pharmacy") {
+        sessionStorage.setItem("id", formObj["id"]);
+        window.location.href = "./dashboard-pharma.html";
+      } else {
+        alert("Your login was unsuccessful. Please, try again.")
+      }
     }
   });
   

@@ -1,0 +1,1184 @@
+,DrugID,Generic Name,DEA Schedule,Common Uses,Interacts With,Risk Level,Interaction_ID
+320,76338,alprazolam,CIV,"Anxiety, panic disorders",ethanol,Moderate,53125
+321,76338,alprazolam,CIV,"Anxiety, panic disorders",amyl nitrite,Moderate,58386
+322,76338,alprazolam,CIV,"Anxiety, panic disorders",cobicistat,Moderate,63331
+323,76338,alprazolam,CIV,"Anxiety, panic disorders",deferasirox,Moderate,11731
+324,76338,alprazolam,CIV,"Anxiety, panic disorders",diazoxide,Moderate,10803
+325,76338,alprazolam,CIV,"Anxiety, panic disorders",flumazenil,Moderate,80004
+326,76338,alprazolam,CIV,"Anxiety, panic disorders",magnesium carbonate,Minor,81199
+327,76338,alprazolam,CIV,"Anxiety, panic disorders",phentolamine,Moderate,95096
+328,76338,alprazolam,CIV,"Anxiety, panic disorders",prednisolone,Minor,47261
+329,76338,alprazolam,CIV,"Anxiety, panic disorders",promethazine,Moderate,39177
+330,76338,alprazolam,CIV,"Anxiety, panic disorders",iodide i-123,Moderate,12814
+331,76338,alprazolam,CIV,"Anxiety, panic disorders",iodide i-131,Moderate,89593
+332,76338,alprazolam,CIV,"Anxiety, panic disorders",sevelamer,Minor,49368
+333,76338,alprazolam,CIV,"Anxiety, panic disorders",leucovorin,Minor,51646
+334,76338,alprazolam,CIV,"Anxiety, panic disorders",acetylcysteine,Minor,52610
+335,76338,alprazolam,CIV,"Anxiety, panic disorders",galactose,Minor,96974
+336,76338,alprazolam,CIV,"Anxiety, panic disorders",folic acid,Minor,81096
+337,76338,alprazolam,CIV,"Anxiety, panic disorders",gadodiamide,Minor,98083
+356,11966,amlodipine,Non-Control,"High blood pressure, chest pain",gadopentetic acid,Moderate,98875
+357,11966,amlodipine,Non-Control,"High blood pressure, chest pain",amifostine,Moderate,10853
+358,11966,amlodipine,Non-Control,"High blood pressure, chest pain",cobicistat,Moderate,63331
+359,11966,amlodipine,Non-Control,"High blood pressure, chest pain",deferasirox,Moderate,11731
+360,11966,amlodipine,Non-Control,"High blood pressure, chest pain",gadoteric acid,Moderate,13871
+361,11966,amlodipine,Non-Control,"High blood pressure, chest pain",gadoxetic acid,Moderate,36386
+362,11966,amlodipine,Non-Control,"High blood pressure, chest pain",iodipamide,Moderate,87496
+363,11966,amlodipine,Non-Control,"High blood pressure, chest pain",iopanoic acid,Moderate,70029
+364,11966,amlodipine,Non-Control,"High blood pressure, chest pain",iothalamic acid,Moderate,46641
+365,11966,amlodipine,Non-Control,"High blood pressure, chest pain",iopodic acid,Moderate,71700
+366,11966,amlodipine,Non-Control,"High blood pressure, chest pain",magnesium sulfate,Moderate,16998
+367,11966,amlodipine,Non-Control,"High blood pressure, chest pain",prednisolone,Moderate,47261
+368,11966,amlodipine,Non-Control,"High blood pressure, chest pain",promethazine,Moderate,39177
+369,11966,amlodipine,Non-Control,"High blood pressure, chest pain",nitrous acid,Moderate,58109
+370,11966,amlodipine,Non-Control,"High blood pressure, chest pain",tyropanoic acid,Moderate,21328
+371,11966,amlodipine,Non-Control,"High blood pressure, chest pain",gadoversetamide,Minor,61006
+372,11966,amlodipine,Non-Control,"High blood pressure, chest pain",sevelamer,Minor,49368
+373,11966,amlodipine,Non-Control,"High blood pressure, chest pain",iopromide,Minor,37238
+374,11966,amlodipine,Non-Control,"High blood pressure, chest pain",leucovorin,Minor,51646
+375,11966,amlodipine,Non-Control,"High blood pressure, chest pain",mannitol,Minor,33387
+376,11966,amlodipine,Non-Control,"High blood pressure, chest pain",acetylcysteine,Minor,52610
+377,11966,amlodipine,Non-Control,"High blood pressure, chest pain",galactose,Minor,96974
+378,11966,amlodipine,Non-Control,"High blood pressure, chest pain",calcium acetate,Moderate,46565
+379,11966,amlodipine,Non-Control,"High blood pressure, chest pain",diatrizoate,Moderate,88649
+380,11966,amlodipine,Non-Control,"High blood pressure, chest pain",folic acid,Minor,81096
+381,11966,amlodipine,Non-Control,"High blood pressure, chest pain",gadodiamide,Minor,98083
+434,70433,amoxicillin,Non-Control,Bacterial infections,iodide i-123,Moderate,12814
+435,70433,amoxicillin,Non-Control,Bacterial infections,iodide i-131,Moderate,89593
+436,70433,amoxicillin,Non-Control,Bacterial infections,promethazine,Minor,39177
+437,70433,amoxicillin,Non-Control,Bacterial infections,acetylcysteine,Minor,52610
+438,70433,amoxicillin,Non-Control,Bacterial infections,leucovorin,Minor,51646
+439,70433,amoxicillin,Non-Control,Bacterial infections,folic acid,Minor,81096
+440,70433,amoxicillin,Non-Control,Bacterial infections,prednisolone,Minor,47261
+488,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",amyl nitrite,Moderate,58386
+489,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",cobicistat,Moderate,63331
+490,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",deferasirox,Moderate,11731
+491,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",ioflupane i-123,Moderate,92573
+492,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",iohexol,Major,52403
+493,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",iopamidol,Major,37446
+494,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",macimorelin,Moderate,36916
+495,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",ethanol,Moderate,53125
+496,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",diazoxide,Moderate,10803
+497,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",phentolamine,Moderate,95096
+498,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",physostigmine,Moderate,54250
+499,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",physostigmine (ophthalmic),Moderate,91596
+500,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",promethazine,Moderate,39177
+501,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",tolbutamide,Moderate,42128
+502,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",folic acid,Minor,81096
+503,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression",prednisolone,Minor,47261
+901,71567,azithromycin,Non-Control,Bacterial infections,macimorelin,Major,36916
+902,71567,azithromycin,Non-Control,Bacterial infections,magnesium carbonate,Moderate,81199
+903,71567,azithromycin,Non-Control,Bacterial infections,promethazine,Moderate,39177
+904,71567,azithromycin,Non-Control,Bacterial infections,prednisolone,Minor,47261
+905,71567,azithromycin,Non-Control,Bacterial infections,leucovorin,Minor,51646
+906,71567,azithromycin,Non-Control,Bacterial infections,mannitol,Minor,33387
+907,71567,azithromycin,Non-Control,Bacterial infections,acetylcysteine,Minor,52610
+908,71567,azithromycin,Non-Control,Bacterial infections,galactose,Minor,96974
+909,71567,azithromycin,Non-Control,Bacterial infections,vitamin a,Minor,22945
+910,71567,azithromycin,Non-Control,Bacterial infections,folic acid,Minor,81096
+1170,28093,carvedilol,Non-Control,"High blood pressure, heart failure",gadobutrol,Moderate,66515
+1171,28093,carvedilol,Non-Control,"High blood pressure, heart failure",gadofosveset trisodium,Moderate,29636
+1172,28093,carvedilol,Non-Control,"High blood pressure, heart failure",amifostine,Moderate,10853
+1173,28093,carvedilol,Non-Control,"High blood pressure, heart failure",cobicistat,Moderate,63331
+1174,28093,carvedilol,Non-Control,"High blood pressure, heart failure",gadoteric acid,Moderate,13871
+1175,28093,carvedilol,Non-Control,"High blood pressure, heart failure",gadoxetic acid,Moderate,36386
+1176,28093,carvedilol,Non-Control,"High blood pressure, heart failure",iobenguane (i-131),Major,28573
+1177,28093,carvedilol,Non-Control,"High blood pressure, heart failure",iodipamide,Moderate,87496
+1178,28093,carvedilol,Non-Control,"High blood pressure, heart failure",iodixanol,Moderate,80432
+1179,28093,carvedilol,Non-Control,"High blood pressure, heart failure",iohexol,Moderate,52403
+1180,28093,carvedilol,Non-Control,"High blood pressure, heart failure",iopamidol,Moderate,37446
+1181,28093,carvedilol,Non-Control,"High blood pressure, heart failure",iopanoic acid,Moderate,70029
+1182,28093,carvedilol,Non-Control,"High blood pressure, heart failure",iopromide,Moderate,37238
+1183,28093,carvedilol,Non-Control,"High blood pressure, heart failure",iothalamic acid,Moderate,46641
+1184,28093,carvedilol,Non-Control,"High blood pressure, heart failure",ioversol,Moderate,56265
+1185,28093,carvedilol,Non-Control,"High blood pressure, heart failure",ioxilan,Moderate,43286
+1186,28093,carvedilol,Non-Control,"High blood pressure, heart failure",iopodic acid,Moderate,71700
+1187,28093,carvedilol,Non-Control,"High blood pressure, heart failure",lanthanum carbonate,Moderate,73840
+1188,28093,carvedilol,Non-Control,"High blood pressure, heart failure",magnesium carbonate,Minor,81199
+1189,28093,carvedilol,Non-Control,"High blood pressure, heart failure",methacholine,Major,10610
+1190,28093,carvedilol,Non-Control,"High blood pressure, heart failure",nitrous acid,Moderate,58109
+1191,28093,carvedilol,Non-Control,"High blood pressure, heart failure",tyropanoic acid,Moderate,21328
+1192,28093,carvedilol,Non-Control,"High blood pressure, heart failure",acetylcysteine,Minor,52610
+1193,28093,carvedilol,Non-Control,"High blood pressure, heart failure",galactose,Minor,96974
+1194,28093,carvedilol,Non-Control,"High blood pressure, heart failure",ethanol,Moderate,53125
+1195,28093,carvedilol,Non-Control,"High blood pressure, heart failure",gadobenic acid,Moderate,94769
+1196,28093,carvedilol,Non-Control,"High blood pressure, heart failure",gadopentetic acid,Moderate,98875
+1197,28093,carvedilol,Non-Control,"High blood pressure, heart failure",calcium acetate,Moderate,46565
+1198,28093,carvedilol,Non-Control,"High blood pressure, heart failure",diatrizoate,Moderate,88649
+1199,28093,carvedilol,Non-Control,"High blood pressure, heart failure",gadodiamide,Moderate,98083
+1200,28093,carvedilol,Non-Control,"High blood pressure, heart failure",gadoteridol,Moderate,94746
+1201,28093,carvedilol,Non-Control,"High blood pressure, heart failure",gadoversetamide,Moderate,61006
+1202,28093,carvedilol,Non-Control,"High blood pressure, heart failure",physostigmine,Moderate,54250
+1203,28093,carvedilol,Non-Control,"High blood pressure, heart failure",prednisolone,Moderate,47261
+1204,28093,carvedilol,Non-Control,"High blood pressure, heart failure",promethazine,Moderate,39177
+1205,28093,carvedilol,Non-Control,"High blood pressure, heart failure",tolbutamide,Moderate,42128
+1206,28093,carvedilol,Non-Control,"High blood pressure, heart failure",leucovorin,Minor,51646
+1207,28093,carvedilol,Non-Control,"High blood pressure, heart failure",mannitol,Minor,33387
+1208,28093,carvedilol,Non-Control,"High blood pressure, heart failure",folic acid,Minor,81096
+1209,28093,carvedilol,Non-Control,"High blood pressure, heart failure",sevelamer,Minor,49368
+1210,28093,carvedilol,Non-Control,"High blood pressure, heart failure",deferoxamine,Minor,11347
+1434,20365,cephalexin,Non-Control,Bacterial infections,sevelamer,Minor,49368
+1435,20365,cephalexin,Non-Control,Bacterial infections,prednisolone,Minor,47261
+1436,20365,cephalexin,Non-Control,Bacterial infections,promethazine,Minor,39177
+1437,20365,cephalexin,Non-Control,Bacterial infections,leucovorin,Minor,51646
+1438,20365,cephalexin,Non-Control,Bacterial infections,acetylcysteine,Minor,52610
+1439,20365,cephalexin,Non-Control,Bacterial infections,galactose,Minor,96974
+1440,20365,cephalexin,Non-Control,Bacterial infections,folic acid,Minor,81096
+1448,50549,cetirizine,Non-Control,Allergies,ethanol,Moderate,53125
+1449,50549,cetirizine,Non-Control,Allergies,histamine,Moderate,78313
+1450,50549,cetirizine,Non-Control,Allergies,promethazine,Moderate,39177
+1451,50549,cetirizine,Non-Control,Allergies,iodide i-123,Moderate,12814
+1452,50549,cetirizine,Non-Control,Allergies,iodide i-131,Moderate,89593
+1453,50549,cetirizine,Non-Control,Allergies,sevelamer,Minor,49368
+1454,50549,cetirizine,Non-Control,Allergies,prednisolone,Minor,47261
+1455,50549,cetirizine,Non-Control,Allergies,leucovorin,Minor,51646
+1456,50549,cetirizine,Non-Control,Allergies,acetylcysteine,Minor,52610
+1457,50549,cetirizine,Non-Control,Allergies,vitamin a,Minor,22945
+1458,50549,cetirizine,Non-Control,Allergies,folic acid,Minor,81096
+1655,36135,citalopram,Non-Control,Depression,ethanol,Moderate,53125
+1656,36135,citalopram,Non-Control,Depression,cobicistat,Minor,63331
+1657,36135,citalopram,Non-Control,Depression,deferasirox,Moderate,11731
+1658,36135,citalopram,Non-Control,Depression,iobenguane (i-123),Moderate,21716
+1659,36135,citalopram,Non-Control,Depression,ioflupane i-123,Moderate,92573
+1660,36135,citalopram,Non-Control,Depression,iohexol,Major,52403
+1661,36135,citalopram,Non-Control,Depression,iopamidol,Major,37446
+1662,36135,citalopram,Non-Control,Depression,macimorelin,Major,36916
+1663,36135,citalopram,Non-Control,Depression,mannitol,Moderate,33387
+1664,36135,citalopram,Non-Control,Depression,methylene blue,Major,64452
+1665,36135,citalopram,Non-Control,Depression,promethazine,Major,39177
+1666,36135,citalopram,Non-Control,Depression,tolbutamide,Moderate,42128
+1667,36135,citalopram,Non-Control,Depression,gadodiamide,Minor,98083
+1668,36135,citalopram,Non-Control,Depression,gadoversetamide,Minor,61006
+1669,36135,citalopram,Non-Control,Depression,sevelamer,Minor,49368
+1670,36135,citalopram,Non-Control,Depression,prednisolone,Minor,47261
+1671,36135,citalopram,Non-Control,Depression,naloxone,Minor,77812
+1672,36135,citalopram,Non-Control,Depression,iopromide,Minor,37238
+1673,36135,citalopram,Non-Control,Depression,leucovorin,Minor,51646
+1674,36135,citalopram,Non-Control,Depression,acetylcysteine,Minor,52610
+1675,36135,citalopram,Non-Control,Depression,galactose,Minor,96974
+1676,36135,citalopram,Non-Control,Depression,ibritumomab tiuxetan,Moderate,76531
+1677,36135,citalopram,Non-Control,Depression,tositumomab (i-131),Moderate,66679
+1678,36135,citalopram,Non-Control,Depression,tositumomab,Moderate,49493
+1679,36135,citalopram,Non-Control,Depression,caffeine,Minor,67487
+1680,36135,citalopram,Non-Control,Depression,folic acid,Minor,81096
+1681,36135,citalopram,Non-Control,Depression,hydroxocobalamin,Minor,34047
+1802,82480,clonazepam,CIV,"Anxiety, seizures",cobicistat,Moderate,63331
+1803,82480,clonazepam,CIV,"Anxiety, seizures",amyl nitrite,Moderate,58386
+1804,82480,clonazepam,CIV,"Anxiety, seizures",deferasirox,Moderate,11731
+1805,82480,clonazepam,CIV,"Anxiety, seizures",diazoxide,Moderate,10803
+1806,82480,clonazepam,CIV,"Anxiety, seizures",flumazenil,Moderate,80004
+1807,82480,clonazepam,CIV,"Anxiety, seizures",magnesium carbonate,Minor,81199
+1808,82480,clonazepam,CIV,"Anxiety, seizures",methylene blue,Moderate,64452
+1809,82480,clonazepam,CIV,"Anxiety, seizures",promethazine,Moderate,39177
+1810,82480,clonazepam,CIV,"Anxiety, seizures",iodide i-123,Moderate,12814
+1811,82480,clonazepam,CIV,"Anxiety, seizures",iodide i-131,Moderate,89593
+1812,82480,clonazepam,CIV,"Anxiety, seizures",ethanol,Moderate,53125
+1813,82480,clonazepam,CIV,"Anxiety, seizures",phentolamine,Moderate,95096
+1814,82480,clonazepam,CIV,"Anxiety, seizures",vitamin a,Minor,22945
+1815,82480,clonazepam,CIV,"Anxiety, seizures",caffeine,Minor,67487
+1816,82480,clonazepam,CIV,"Anxiety, seizures",leucovorin,Minor,51646
+1817,82480,clonazepam,CIV,"Anxiety, seizures",mannitol,Minor,33387
+1818,82480,clonazepam,CIV,"Anxiety, seizures",folic acid,Minor,81096
+1819,82480,clonazepam,CIV,"Anxiety, seizures",hydroxocobalamin,Minor,34047
+1820,82480,clonazepam,CIV,"Anxiety, seizures",gadodiamide,Minor,98083
+1821,82480,clonazepam,CIV,"Anxiety, seizures",sevelamer,Minor,49368
+1822,82480,clonazepam,CIV,"Anxiety, seizures",prednisolone,Minor,47261
+2093,37753,cyclobenzaprine,Non-Control,Muscle spasms,methylene blue,Major,64452
+2094,37753,cyclobenzaprine,Non-Control,Muscle spasms,deferasirox,Moderate,11731
+2095,37753,cyclobenzaprine,Non-Control,Muscle spasms,iohexol,Major,52403
+2096,37753,cyclobenzaprine,Non-Control,Muscle spasms,iopamidol,Major,37446
+2097,37753,cyclobenzaprine,Non-Control,Muscle spasms,physostigmine,Moderate,54250
+2098,37753,cyclobenzaprine,Non-Control,Muscle spasms,physostigmine (ophthalmic),Moderate,91596
+2099,37753,cyclobenzaprine,Non-Control,Muscle spasms,promethazine,Moderate,39177
+2100,37753,cyclobenzaprine,Non-Control,Muscle spasms,ethanol,Moderate,53125
+2101,37753,cyclobenzaprine,Non-Control,Muscle spasms,leucovorin,Minor,51646
+2102,37753,cyclobenzaprine,Non-Control,Muscle spasms,folic acid,Minor,81096
+2103,37753,cyclobenzaprine,Non-Control,Muscle spasms,sevelamer,Minor,49368
+2104,37753,cyclobenzaprine,Non-Control,Muscle spasms,prednisolone,Minor,47261
+2756,36217,dulaglutide,Non-Control,Type 2 diabetes,ethanol,Moderate,53125
+2757,36217,dulaglutide,Non-Control,Type 2 diabetes,diazoxide,Moderate,10803
+2758,36217,dulaglutide,Non-Control,Type 2 diabetes,prednisolone,Moderate,47261
+2759,36217,dulaglutide,Non-Control,Type 2 diabetes,promethazine,Moderate,39177
+2760,36217,dulaglutide,Non-Control,Type 2 diabetes,sermorelin,Moderate,18529
+2761,36217,dulaglutide,Non-Control,Type 2 diabetes,tolbutamide,Moderate,42128
+2768,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",ethanol,Moderate,53125
+2769,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",cobicistat,Moderate,63331
+2770,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",deferasirox,Moderate,11731
+2771,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",iobenguane (i-123),Moderate,21716
+2772,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",iobenguane (i-131),Major,28573
+2773,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",ioflupane i-123,Moderate,92573
+2774,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",iohexol,Major,52403
+2775,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",iopamidol,Major,37446
+2776,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",magnesium carbonate,Minor,81199
+2777,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",mannitol,Moderate,33387
+2778,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",methylene blue,Major,64452
+2779,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",promethazine,Moderate,39177
+2780,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",sevelamer,Minor,49368
+2781,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",leucovorin,Minor,51646
+2782,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",deferoxamine,Minor,11347
+2783,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",prednisolone,Minor,47261
+2784,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",caffeine,Moderate,67487
+2785,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",ibritumomab tiuxetan,Moderate,76531
+2786,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",tositumomab (i-131),Moderate,66679
+2787,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",tositumomab,Moderate,49493
+2788,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain",folic acid,Minor,81096
+3049,38112,estradiol,Non-Control,Hormone replacement therapy,cobicistat,Moderate,63331
+3050,38112,estradiol,Non-Control,Hormone replacement therapy,deferasirox,Moderate,11731
+3051,38112,estradiol,Non-Control,Hormone replacement therapy,metyrapone,Moderate,83027
+3052,38112,estradiol,Non-Control,Hormone replacement therapy,prednisolone,Moderate,47261
+3053,38112,estradiol,Non-Control,Hormone replacement therapy,tolbutamide,Moderate,42128
+3054,38112,estradiol,Non-Control,Hormone replacement therapy,promethazine,Minor,39177
+3055,38112,estradiol,Non-Control,Hormone replacement therapy,acetylcysteine,Minor,52610
+3056,38112,estradiol,Non-Control,Hormone replacement therapy,leucovorin,Minor,51646
+3057,38112,estradiol,Non-Control,Hormone replacement therapy,folic acid,Minor,81096
+3058,38112,estradiol,Non-Control,Hormone replacement therapy,vitamin a,Minor,22945
+3349,70754,famotidine,Non-Control,"Acid reflux, heartburn",magnesium carbonate,Minor,81199
+3350,70754,famotidine,Non-Control,"Acid reflux, heartburn",promethazine,Moderate,39177
+3351,70754,famotidine,Non-Control,"Acid reflux, heartburn",tolbutamide,Moderate,42128
+3352,70754,famotidine,Non-Control,"Acid reflux, heartburn",iodixanol,Minor,80432
+3353,70754,famotidine,Non-Control,"Acid reflux, heartburn",iohexol,Minor,52403
+3354,70754,famotidine,Non-Control,"Acid reflux, heartburn",iopamidol,Minor,37446
+3355,70754,famotidine,Non-Control,"Acid reflux, heartburn",ioversol,Minor,56265
+3356,70754,famotidine,Non-Control,"Acid reflux, heartburn",acetylcysteine,Minor,52610
+3357,70754,famotidine,Non-Control,"Acid reflux, heartburn",galactose,Minor,96974
+3358,70754,famotidine,Non-Control,"Acid reflux, heartburn",vitamin a,Minor,22945
+3359,70754,famotidine,Non-Control,"Acid reflux, heartburn",leucovorin,Minor,51646
+3360,70754,famotidine,Non-Control,"Acid reflux, heartburn",mannitol,Minor,33387
+3361,70754,famotidine,Non-Control,"Acid reflux, heartburn",folic acid,Minor,81096
+3362,70754,famotidine,Non-Control,"Acid reflux, heartburn",gadodiamide,Minor,98083
+3363,70754,famotidine,Non-Control,"Acid reflux, heartburn",sevelamer,Minor,49368
+3364,70754,famotidine,Non-Control,"Acid reflux, heartburn",prednisolone,Minor,47261
+4251,14645,finasteride,Non-Control,Enlarged prostate,acetylcysteine,Minor,52610
+4252,14645,finasteride,Non-Control,Enlarged prostate,leucovorin,Minor,51646
+4253,14645,finasteride,Non-Control,Enlarged prostate,folic acid,Minor,81096
+4254,14645,finasteride,Non-Control,Enlarged prostate,sevelamer,Minor,49368
+4255,14645,finasteride,Non-Control,Enlarged prostate,prednisolone,Minor,47261
+4256,14645,finasteride,Non-Control,Enlarged prostate,promethazine,Minor,39177
+4275,21436,fluconazole,Non-Control,Fungal infections,cobicistat,Moderate,63331
+4276,21436,fluconazole,Non-Control,Fungal infections,promethazine,Moderate,39177
+4277,21436,fluconazole,Non-Control,Fungal infections,macimorelin,Major,36916
+4278,21436,fluconazole,Non-Control,Fungal infections,prednisolone,Moderate,47261
+4279,21436,fluconazole,Non-Control,Fungal infections,tolbutamide,Major,42128
+4280,21436,fluconazole,Non-Control,Fungal infections,gadodiamide,Minor,98083
+4281,21436,fluconazole,Non-Control,Fungal infections,sevelamer,Minor,49368
+4282,21436,fluconazole,Non-Control,Fungal infections,naloxone,Minor,77812
+4283,21436,fluconazole,Non-Control,Fungal infections,iopromide,Minor,37238
+4284,21436,fluconazole,Non-Control,Fungal infections,leucovorin,Minor,51646
+4285,21436,fluconazole,Non-Control,Fungal infections,mannitol,Minor,33387
+4286,21436,fluconazole,Non-Control,Fungal infections,deferoxamine,Minor,11347
+4287,21436,fluconazole,Non-Control,Fungal infections,amifostine,Minor,10853
+4288,21436,fluconazole,Non-Control,Fungal infections,acetylcysteine,Minor,52610
+4289,21436,fluconazole,Non-Control,Fungal infections,galactose,Minor,96974
+4290,21436,fluconazole,Non-Control,Fungal infections,vitamin a,Minor,22945
+4291,21436,fluconazole,Non-Control,Fungal infections,folic acid,Minor,81096
+4343,21863,fluoxetine,Non-Control,"Depression, OCD",ethanol,Moderate,53125
+4344,21863,fluoxetine,Non-Control,"Depression, OCD",cobicistat,Moderate,63331
+4345,21863,fluoxetine,Non-Control,"Depression, OCD",methylene blue,Major,64452
+4346,21863,fluoxetine,Non-Control,"Depression, OCD",deferasirox,Moderate,11731
+4347,21863,fluoxetine,Non-Control,"Depression, OCD",iohexol,Major,52403
+4348,21863,fluoxetine,Non-Control,"Depression, OCD",iopamidol,Major,37446
+4349,21863,fluoxetine,Non-Control,"Depression, OCD",mannitol,Moderate,33387
+4350,21863,fluoxetine,Non-Control,"Depression, OCD",promethazine,Moderate,39177
+4351,21863,fluoxetine,Non-Control,"Depression, OCD",tolbutamide,Moderate,42128
+4352,21863,fluoxetine,Non-Control,"Depression, OCD",ioflupane i-123,Moderate,92573
+4353,21863,fluoxetine,Non-Control,"Depression, OCD",iobenguane (i-123),Moderate,21716
+4354,21863,fluoxetine,Non-Control,"Depression, OCD",macimorelin,Major,36916
+4355,21863,fluoxetine,Non-Control,"Depression, OCD",prednisolone,Minor,47261
+4356,21863,fluoxetine,Non-Control,"Depression, OCD",leucovorin,Minor,51646
+4357,21863,fluoxetine,Non-Control,"Depression, OCD",acetylcysteine,Minor,52610
+4358,21863,fluoxetine,Non-Control,"Depression, OCD",ibritumomab tiuxetan,Moderate,76531
+4359,21863,fluoxetine,Non-Control,"Depression, OCD",tositumomab (i-131),Moderate,66679
+4360,21863,fluoxetine,Non-Control,"Depression, OCD",tositumomab,Moderate,49493
+4361,21863,fluoxetine,Non-Control,"Depression, OCD",folic acid,Minor,81096
+4388,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",capecitabine,Major,52494
+4389,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",carbamazepine,Moderate,39249
+4390,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cholestyramine,Moderate,37958
+4391,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",colestipol,Moderate,32511
+4392,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",valproic acid,Moderate,65462
+4393,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",phenobarbital,Moderate,47378
+4394,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",eslicarbazepine,Moderate,22062
+4395,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ethosuximide,Moderate,83041
+4396,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ethotoin,Moderate,35634
+4397,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",felbamate,Moderate,61693
+4398,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fluorouracil,Major,44345
+4399,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fosphenytoin,Moderate,47474
+4400,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",lamotrigine,Moderate,54988
+4401,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",mephenytoin,Moderate,36347
+4402,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",methylphenobarbital,Moderate,35887
+4403,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",methotrexate,Moderate,46028
+4404,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",methsuximide,Moderate,34687
+4405,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",oxcarbazepine,Moderate,29487
+4406,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",phensuximide,Moderate,35453
+4407,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",phenytoin,Moderate,88096
+4408,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",primidone,Moderate,71693
+4409,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pyrimethamine,Moderate,11774
+4410,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",rufinamide,Moderate,55037
+4411,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sulfadiazine,Moderate,47756
+4412,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sulfadoxine,Moderate,11236
+4413,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sulfamethizole,Moderate,15529
+4414,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sulfamethoxazole,Moderate,38656
+4415,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sulfasalazine,Minor,71500
+4416,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sulfisoxazole,Moderate,25157
+4417,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",triamterene,Moderate,85831
+4418,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",trimethoprim,Moderate,26400
+4419,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pravastatin,Minor,35374
+4420,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",valsartan,Minor,95848
+4421,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ramipril,Minor,21466
+4422,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",lorazepam,Minor,26340
+4423,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",bortezomib,Minor,24001
+4424,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tramadol,Minor,80820
+4425,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",hydroxocobalamin,Minor,34047
+4426,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sildenafil,Minor,65915
+4427,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dofetilide,Minor,69165
+4428,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pantoprazole,Minor,40812
+4429,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",torasemide,Minor,71225
+4430,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",moxifloxacin,Minor,79257
+4431,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nelfinavir,Minor,19277
+4432,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",glimepiride,Minor,34605
+4433,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",gadodiamide,Minor,98083
+4434,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",lovastatin,Minor,51144
+4435,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pregabalin,Minor,67456
+4436,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",temazepam,Minor,51372
+4437,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nevirapine,Minor,87195
+4438,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",mesalazine,Minor,44556
+4439,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ziprasidone,Minor,90593
+4440,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",metoprolol,Minor,54315
+4441,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ropinirole,Minor,52898
+4442,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",isradipine,Minor,11382
+4443,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",topiramate,Minor,65340
+4444,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",lidocaine,Minor,15008
+4445,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pamidronic acid,Minor,68417
+4446,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",acarbose,Minor,68265
+4447,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",venlafaxine,Minor,83881
+4448,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",travoprost,Minor,55006
+4449,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",atomoxetine,Minor,68658
+4450,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",morphine,Minor,70901
+4451,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ertapenem,Minor,52376
+4452,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",zolmitriptan,Minor,51494
+4453,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",gefitinib,Minor,26689
+4454,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",hydromorphone,Minor,85120
+4455,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",indomethacin,Minor,17312
+4456,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",metformin,Minor,88122
+4457,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",olanzapine,Minor,78176
+4458,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",omeprazole,Minor,84717
+4459,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",minoxidil,Minor,71199
+4460,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",vinorelbine,Minor,15216
+4461,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sucralfate,Minor,44384
+4462,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",mirtazapine,Minor,64734
+4463,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",timolol,Minor,51183
+4464,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",palonosetron,Minor,46064
+4465,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",progesterone,Minor,40183
+4466,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sorafenib,Minor,93358
+4467,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",zoledronic acid,Minor,69675
+4468,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nisoldipine,Minor,35762
+4469,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",mupirocin,Minor,40066
+4470,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",rosiglitazone,Minor,80230
+4471,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pramipexole,Minor,64853
+4472,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",spironolactone,Minor,99554
+4473,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",methylphenidate,Minor,47294
+4474,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",methocarbamol,Minor,20303
+4475,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",zolpidem,Minor,56369
+4476,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",prochlorperazine,Minor,95142
+4477,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",allopurinol,Minor,59389
+4478,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",gemcitabine,Minor,74950
+4479,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",lansoprazole,Minor,42975
+4480,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",meperidine,Minor,43530
+4481,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",loratadine,Minor,52482
+4482,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",imipramine,Minor,92274
+4483,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nabumetone,Minor,87687
+4484,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ketorolac,Minor,93530
+4485,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",montelukast,Minor,55642
+4486,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",duloxetine,Minor,69327
+4487,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",lenalidomide,Minor,50917
+4488,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",raloxifene,Minor,92458
+4489,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sotalol,Minor,42228
+4490,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fosinopril,Minor,25223
+4491,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",entacapone,Minor,30089
+4492,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",zidovudine,Minor,72177
+4493,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",darifenacin,Minor,45988
+4494,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",oxycodone,Minor,47185
+4495,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",haloperidol,Minor,47223
+4496,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ritonavir,Minor,38445
+4497,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",vancomycin,Minor,24175
+4498,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cisplatin,Minor,96938
+4499,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",metolazone,Minor,26819
+4500,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",oxaliplatin,Minor,96393
+4501,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",erlotinib,Minor,32149
+4502,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",rofecoxib,Minor,50575
+4503,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cefdinir,Minor,36077
+4504,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nortriptyline,Minor,54632
+4505,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",vincristine,Minor,81353
+4506,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",zafirlukast,Minor,94759
+4507,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",piroxicam,Minor,95916
+4508,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",hydroxyzine,Minor,17509
+4509,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",bosentan,Minor,72011
+4510,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",propranolol,Minor,46110
+4511,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",valaciclovir,Minor,77378
+4512,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",valdecoxib,Minor,12595
+4513,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",lactulose,Minor,38995
+4514,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",voriconazole,Minor,92144
+4515,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nizatidine,Minor,76807
+4516,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",labetalol,Minor,58628
+4517,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",linezolid,Minor,86609
+4518,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sulindac,Minor,50785
+4519,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",imatinib,Minor,64184
+4520,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",triamcinolone,Minor,20162
+4521,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",testosterone,Minor,43170
+4522,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",prednisone,Minor,13931
+4523,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",simvastatin,Minor,54841
+4524,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pemetrexed,Minor,37644
+4525,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nystatin,Minor,80129
+4526,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",stavudine,Minor,67802
+4527,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",latanoprost,Minor,16528
+4528,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",trazodone,Minor,25254
+4529,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sevelamer,Minor,49368
+4530,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sumatriptan,Minor,94943
+4531,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",aprepitant,Minor,98555
+4532,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",galantamine,Minor,21045
+4533,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tamoxifen,Minor,80321
+4534,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",losartan,Minor,54203
+4535,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",warfarin,Minor,90187
+4536,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",moexipril,Minor,56534
+4537,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",furosemide,Minor,50656
+4538,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tizanidine,Minor,30240
+4539,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nitrofurantoin,Minor,58459
+4540,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tamsulosin,Minor,35745
+4541,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",lamivudine,Minor,84758
+4542,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ibandronate,Minor,78071
+4543,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",paroxetine,Minor,92364
+4544,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",lisinopril,Minor,47325
+4545,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nitroglycerin,Minor,79989
+4546,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nateglinide,Minor,53982
+4547,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",risperidone,Minor,90270
+4548,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",hydrocortisone,Minor,40793
+4549,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",modafinil,Minor,29901
+4550,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",isoflurane,Minor,39936
+4551,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tretinoin,Minor,94977
+4552,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tetracycline,Minor,24676
+4553,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",potassium chloride,Minor,25560
+4554,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",irinotecan,Minor,27651
+4555,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",olopatadine,Minor,99848
+4556,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",perindopril,Minor,23140
+4557,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",gentamicin,Minor,95324
+4558,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pentoxifylline,Minor,33386
+4559,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",indapamide,Minor,28767
+4560,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ribavirin,Minor,15865
+4561,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",meloxicam,Minor,33873
+4562,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",propofol,Minor,19134
+4563,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tadalafil,Minor,91097
+4564,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",loperamide,Minor,86663
+4565,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",oxazepam,Minor,35483
+4566,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",terbinafine,Minor,34248
+4567,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",prednisolone,Minor,47261
+4568,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",vardenafil,Minor,11644
+4569,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ranitidine,Minor,29495
+4570,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tacrolimus,Minor,85314
+4571,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sirolimus,Minor,98588
+4572,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",quinapril,Minor,78806
+4573,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",isosorbide dinitrate,Minor,48965
+4574,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",risedronic acid,Minor,26988
+4575,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",granisetron,Minor,49223
+4576,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",triazolam,Minor,17244
+4577,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ondansetron,Minor,45546
+4578,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",bimatoprost,Minor,26719
+4579,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",zonisamide,Minor,47327
+4580,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",paricalcitol,Minor,48831
+4581,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",repaglinide,Minor,33602
+4582,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",metronidazole,Minor,10709
+4583,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",misoprostol,Minor,78940
+4584,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",salmeterol,Minor,29282
+4585,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",isoniazid,Minor,43526
+4586,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",rizatriptan,Minor,91783
+4587,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",carboplatin,Minor,98292
+4588,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",methylprednisolone,Minor,17704
+4589,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",zaleplon,Minor,95745
+4590,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",telmisartan,Minor,49659
+4591,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",desloratadine,Minor,71616
+4592,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",methyldopa,Minor,47840
+4593,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",selenium sulfide,Minor,21169
+4594,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ezetimibe,Minor,66230
+4595,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",telithromycin,Minor,33311
+4596,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",formoterol,Minor,63789
+4597,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",rivastigmine,Minor,81147
+4598,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",oxaprozin,Minor,18904
+4599,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",auranofin,Minor,71321
+4600,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",gabapentin,Minor,85255
+4601,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",hydrochlorothiazide,Minor,68061
+4602,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ganciclovir,Minor,44379
+4603,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",hydroxyurea,Minor,33470
+4604,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",letrozole,Minor,94919
+4605,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ketoprofen,Minor,49466
+4606,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cinacalcet,Minor,60687
+4607,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",balsalazide,Minor,75976
+4608,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",glyburide,Minor,82121
+4609,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",isosorbide mononitrate,Minor,89514
+4610,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",phylloquinone,Minor,50900
+4611,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",irbesartan,Minor,69771
+4612,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",probenecid,Minor,25225
+4613,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",mercaptopurine,Minor,91511
+4614,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tolterodine,Minor,98110
+4615,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",thalidomide,Minor,78536
+4616,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",memantine,Minor,38398
+4617,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",gatifloxacin,Minor,94760
+4618,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",rifampicin,Minor,11937
+4619,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ibuprofen,Minor,88193
+4620,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",norfloxacin,Minor,93663
+4621,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",oxybutynin,Minor,85933
+4622,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",glipizide,Minor,94934
+4623,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",promethazine,Minor,39177
+4624,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",atazanavir,Minor,23132
+4625,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tegaserod,Minor,55724
+4626,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",orlistat,Minor,15857
+4627,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pilocarpine,Minor,27792
+4628,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",iloprost,Minor,60107
+4629,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",leflunomide,Minor,30770
+4630,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",rosuvastatin,Minor,86896
+4631,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sertraline,Minor,21710
+4632,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nifedipine,Minor,66370
+4633,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",atovaquone,Minor,59112
+4634,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dutasteride,Minor,33821
+4635,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",rabeprazole,Minor,30942
+4636,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pioglitazone,Minor,34014
+4637,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",terazosin,Minor,77698
+4638,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",calcium chloride,Minor,59608
+4639,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ofloxacin,Minor,18951
+4640,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",itraconazole,Minor,93333
+4641,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",arsenic trioxide,Minor,40506
+4642,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",orphenadrine,Minor,79593
+4643,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",zopiclone,Minor,97821
+4644,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",levetiracetam,Minor,30087
+4645,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nadolol,Minor,80398
+4646,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",mitoxantrone,Minor,89941
+4647,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",clarithromycin,Minor,76537
+4648,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",quetiapine,Minor,88139
+4649,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",paclitaxel,Minor,54386
+4650,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",metoclopramide,Minor,73750
+4651,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",aripiprazole,Minor,91442
+4652,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",gemfibrozil,Minor,77159
+4653,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",varenicline,Minor,58773
+4654,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pirbuterol,Minor,95540
+4655,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",sodium bicarbonate,Minor,85400
+4656,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",tiotropium,Minor,36907
+4657,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ursodeoxycholic acid,Minor,51352
+4658,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nitrazepam,Minor,38499
+4659,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",valganciclovir,Minor,14601
+4660,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",hydroxychloroquine,Minor,86375
+4661,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ambrisentan,Minor,24263
+4662,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",clobetasol,Minor,99702
+4663,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fluticasone,Minor,35685
+4664,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",vitamin a,Minor,22945
+4665,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",flunisolide,Minor,82829
+4666,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",baclofen,Minor,85925
+4667,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",nicotine,Minor,74556
+4668,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fluconazole,Minor,48757
+4669,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",erythromycin,Minor,89027
+4670,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",caffeine,Minor,67487
+4671,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",azithromycin,Minor,78791
+4672,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",citalopram,Minor,51554
+4673,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cabergoline,Minor,64804
+4674,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dapsone,Minor,22132
+4675,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",doxycycline,Minor,64933
+4676,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",clotrimazole,Minor,10750
+4677,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",carmustine,Minor,40607
+4678,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",theophylline,Minor,81502
+4679,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",liothyronine,Minor,52010
+4680,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",chlorthalidone,Minor,15583
+4681,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",acetaminophen,Minor,81736
+4682,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dihydroergotamine,Minor,39123
+4683,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",amitriptyline,Minor,19708
+4684,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ethambutol,Minor,25705
+4685,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",atenolol,Minor,57976
+4686,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pyrazinamide,Minor,90764
+4687,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cetirizine,Minor,30317
+4688,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",diltiazem,Minor,39453
+4689,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",alfuzosin,Minor,35417
+4690,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",chlorzoxazone,Minor,14179
+4691,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",clozapine,Minor,78850
+4692,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",amlodipine,Minor,38693
+4693,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",digoxin,Minor,81966
+4694,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",carisoprodol,Minor,44815
+4695,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",alprazolam,Minor,53064
+4696,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ampicillin,Minor,82819
+4697,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",famciclovir,Minor,16361
+4698,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ceftazidime,Minor,17749
+4699,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cerivastatin,Minor,11997
+4700,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",chloramphenicol,Minor,46154
+4701,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",droperidol,Minor,59453
+4702,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",levothyroxine,Minor,33420
+4703,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fluoxetine,Minor,70354
+4704,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",chlordiazepoxide,Minor,20537
+4705,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",chlorpromazine,Minor,98221
+4706,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",celecoxib,Minor,41017
+4707,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",brimonidine,Minor,97369
+4708,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",buspirone,Minor,66381
+4709,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cefotaxime,Minor,22303
+4710,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cimetidine,Minor,97117
+4711,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",aminocaproic acid,Minor,99632
+4712,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dextromethorphan,Minor,55140
+4713,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cyclophosphamide,Minor,53073
+4714,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ciprofloxacin,Minor,19877
+4715,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",benazepril,Minor,90825
+4716,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cephalexin,Minor,24936
+4717,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",clonidine,Minor,59962
+4718,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",levocarnitine,Minor,34149
+4719,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",enalapril,Minor,96791
+4720,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",diclofenac,Minor,47092
+4721,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",doxazosin,Minor,43420
+4722,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",chloroquine,Minor,24911
+4723,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",butorphanol,Minor,99807
+4724,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",bisoprolol,Minor,59580
+4725,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fluphenazine,Minor,86673
+4726,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",efavirenz,Minor,62337
+4727,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",niacin,Minor,69623
+4728,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",alendronic acid,Minor,45403
+4729,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",adenosine,Minor,85956
+4730,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",leucovorin,Minor,51646
+4731,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",verapamil,Minor,43771
+4732,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",epinephrine,Minor,91450
+4733,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",amphotericin b,Minor,14846
+4734,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",flurazepam,Minor,21937
+4735,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",flurbiprofen,Minor,29894
+4736,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",mannitol,Minor,33387
+4737,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",deferoxamine,Minor,11347
+4738,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",etodolac,Minor,81084
+4739,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dolasetron,Minor,24223
+4740,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",clopidogrel,Minor,61348
+4741,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",alprostadil,Minor,53527
+4742,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",etoposide,Minor,35341
+4743,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",estradiol,Minor,34872
+4744,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",acyclovir,Minor,74179
+4745,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",naproxen,Minor,73159
+4746,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dicyclomine,Minor,24249
+4747,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fentanyl,Minor,39211
+4748,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",acetazolamide,Minor,15732
+4749,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",diazepam,Minor,44161
+4750,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cefaclor,Minor,43943
+4751,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",donepezil,Minor,10986
+4752,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",diflunisal,Minor,97691
+4753,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",chlorhexidine,Minor,66412
+4754,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",chlorothiazide,Minor,22844
+4755,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",bumetanide,Minor,51399
+4756,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",didanosine,Minor,69369
+4757,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",quinidine,Minor,49070
+4758,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",amantadine,Minor,39031
+4759,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",buprenorphine,Minor,79566
+4760,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cyclobenzaprine,Minor,66649
+4761,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",famotidine,Minor,50756
+4762,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",acetylsalicylic acid,Minor,25522
+4763,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fexofenadine,Minor,34492
+4764,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dactinomycin,Minor,77503
+4765,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",azelastine,Minor,96008
+4766,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dipyridamole,Minor,61510
+4767,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cytarabine,Minor,85605
+4768,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",azathioprine,Minor,37353
+4769,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",doxorubicin,Minor,71772
+4770,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",salbutamol,Minor,38698
+4771,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",felodipine,Minor,95994
+4772,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fenofibrate,Minor,27647
+4773,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fluocinonide,Minor,77851
+4774,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",abacavir,Minor,40003
+4775,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",amoxicillin,Minor,98592
+4776,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",clonazepam,Minor,78212
+4777,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fludarabine,Minor,36844
+4778,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",atorvastatin,Minor,77607
+4779,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",etidronic acid,Minor,61121
+4780,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",fluvastatin,Minor,91443
+4781,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",heparin,Minor,69544
+4782,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cefuroxime,Minor,51268
+4783,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",amiodarone,Minor,90581
+4784,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",econazole,Minor,88477
+4785,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",bicalutamide,Minor,18402
+4786,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",carvedilol,Minor,80748
+4787,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cefadroxil,Minor,12371
+4788,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",doxepin,Minor,36934
+4789,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cefprozil,Minor,92634
+4790,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",bupropion,Minor,83643
+4791,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ciclopirox,Minor,43950
+4792,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",clindamycin,Minor,30442
+4793,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",acebutolol,Minor,17694
+4794,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",flecainide,Minor,94264
+4795,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",captopril,Minor,65537
+4796,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",flumazenil,Minor,80004
+4797,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",ceftriaxone,Minor,47237
+4798,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",estazolam,Minor,81196
+4799,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",finasteride,Minor,27075
+4800,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",anastrozole,Minor,91049
+4801,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",budesonide,Minor,19682
+4802,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",dexamethasone,Minor,27589
+4803,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",epoprostenol,Minor,12454
+4804,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",docetaxel,Minor,62050
+4805,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cefazolin,Minor,10089
+4806,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",danazol,Minor,84275
+4807,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cefepime,Minor,52515
+4808,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",calcipotriol,Minor,56524
+4809,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",gamma-aminobutyric acid,Minor,74943
+4810,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",acetylcysteine,Minor,52610
+4811,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",vitamin d,Minor,10915
+4812,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",galactose,Minor,96974
+4813,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",pancrelipase,Moderate,64536
+4814,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cyclosporine,Minor,87297
+4815,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",cyanocobalamin,Minor,51371
+4816,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",calcitriol,Minor,56268
+4817,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support",octreotide,Minor,84079
+7398,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",ethanol,Moderate,53125
+7399,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",amifostine,Moderate,10853
+7400,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",iothalamic acid,Moderate,46641
+7401,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",promethazine,Moderate,39177
+7402,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",nitrous acid,Moderate,58109
+7403,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",iopromide,Moderate,37238
+7404,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",iopamidol,Moderate,37446
+7405,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",iohexol,Moderate,52403
+7406,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",sodium zirconium cyclosilicate,Moderate,27610
+7407,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",prednisolone,Moderate,47261
+7408,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",iodipamide,Moderate,87496
+7409,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",iodixanol,Moderate,80432
+7410,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",ioversol,Moderate,56265
+7411,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",ioxilan,Moderate,43286
+7412,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",tolbutamide,Moderate,42128
+7413,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",naloxone,Minor,77812
+7414,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",mannitol,Minor,33387
+7415,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",deferoxamine,Minor,11347
+7416,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",flumazenil,Minor,80004
+7417,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",acetylcysteine,Minor,52610
+7418,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",galactose,Minor,96974
+7419,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",diatrizoate,Moderate,88649
+7420,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",folic acid,Minor,81096
+7421,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",vitamin a,Minor,22945
+7422,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",leucovorin,Minor,51646
+7423,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",gadodiamide,Minor,98083
+7424,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",gadoversetamide,Minor,61006
+7425,55882,furosemide,Non-Control,"Fluid retention, high blood pressure",sevelamer,Minor,49368
+7482,96473,gabapentin,Non-Control,"Nerve pain, seizures",promethazine,Moderate,39177
+7483,96473,gabapentin,Non-Control,"Nerve pain, seizures",magnesium carbonate,Minor,81199
+7484,96473,gabapentin,Non-Control,"Nerve pain, seizures",iopromide,Minor,37238
+7485,96473,gabapentin,Non-Control,"Nerve pain, seizures",acetylcysteine,Minor,52610
+7486,96473,gabapentin,Non-Control,"Nerve pain, seizures",galactose,Minor,96974
+7487,96473,gabapentin,Non-Control,"Nerve pain, seizures",ethanol,Moderate,53125
+7488,96473,gabapentin,Non-Control,"Nerve pain, seizures",folic acid,Minor,81096
+7489,96473,gabapentin,Non-Control,"Nerve pain, seizures",leucovorin,Minor,51646
+7490,96473,gabapentin,Non-Control,"Nerve pain, seizures",mannitol,Minor,33387
+7491,96473,gabapentin,Non-Control,"Nerve pain, seizures",gadodiamide,Minor,98083
+7492,96473,gabapentin,Non-Control,"Nerve pain, seizures",gadoversetamide,Minor,61006
+7493,96473,gabapentin,Non-Control,"Nerve pain, seizures",sevelamer,Minor,49368
+7494,96473,gabapentin,Non-Control,"Nerve pain, seizures",prednisolone,Minor,47261
+7613,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",amifostine,Moderate,10853
+7614,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",diazoxide,Moderate,10803
+7615,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",iodipamide,Moderate,87496
+7616,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",iodixanol,Moderate,80432
+7617,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",iohexol,Moderate,52403
+7618,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",iopamidol,Moderate,37446
+7619,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",iopromide,Moderate,37238
+7620,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",iothalamic acid,Moderate,46641
+7621,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",ioversol,Moderate,56265
+7622,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",ioxilan,Moderate,43286
+7623,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",promethazine,Moderate,39177
+7624,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",nitrous acid,Moderate,58109
+7625,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",tolbutamide,Moderate,42128
+7626,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",acetylcysteine,Minor,52610
+7627,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",ethanol,Moderate,53125
+7628,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",calcium acetate,Moderate,46565
+7629,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",diatrizoate,Moderate,88649
+7630,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",prednisolone,Moderate,47261
+7631,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",folic acid,Minor,81096
+7632,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",leucovorin,Minor,51646
+7633,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",gadoversetamide,Minor,61006
+7634,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention",sevelamer,Minor,49368
+7747,47557,ibuprofen,Non-Control,"Pain relief, inflammation",deferasirox,Major,11731
+7748,47557,ibuprofen,Non-Control,"Pain relief, inflammation",iodipamide,Major,87496
+7749,47557,ibuprofen,Non-Control,"Pain relief, inflammation",iodixanol,Major,80432
+7750,47557,ibuprofen,Non-Control,"Pain relief, inflammation",iohexol,Major,52403
+7751,47557,ibuprofen,Non-Control,"Pain relief, inflammation",iopamidol,Major,37446
+7752,47557,ibuprofen,Non-Control,"Pain relief, inflammation",iopromide,Major,37238
+7753,47557,ibuprofen,Non-Control,"Pain relief, inflammation",iothalamic acid,Major,46641
+7754,47557,ibuprofen,Non-Control,"Pain relief, inflammation",ioversol,Major,56265
+7755,47557,ibuprofen,Non-Control,"Pain relief, inflammation",ioxilan,Major,43286
+7756,47557,ibuprofen,Non-Control,"Pain relief, inflammation",macimorelin,Moderate,36916
+7757,47557,ibuprofen,Non-Control,"Pain relief, inflammation",potassium iodide,Moderate,44902
+7758,47557,ibuprofen,Non-Control,"Pain relief, inflammation",tolbutamide,Moderate,42128
+7759,47557,ibuprofen,Non-Control,"Pain relief, inflammation",promethazine,Minor,39177
+7760,47557,ibuprofen,Non-Control,"Pain relief, inflammation",acetylcysteine,Minor,52610
+7761,47557,ibuprofen,Non-Control,"Pain relief, inflammation",galactose,Minor,96974
+7762,47557,ibuprofen,Non-Control,"Pain relief, inflammation",diatrizoate,Major,88649
+7763,47557,ibuprofen,Non-Control,"Pain relief, inflammation",ethanol,Moderate,53125
+7764,47557,ibuprofen,Non-Control,"Pain relief, inflammation",ibritumomab tiuxetan,Major,76531
+7765,47557,ibuprofen,Non-Control,"Pain relief, inflammation",tositumomab (i-131),Major,66679
+7766,47557,ibuprofen,Non-Control,"Pain relief, inflammation",prednisolone,Moderate,47261
+7767,47557,ibuprofen,Non-Control,"Pain relief, inflammation",tositumomab,Major,49493
+7768,47557,ibuprofen,Non-Control,"Pain relief, inflammation",folic acid,Minor,81096
+7769,47557,ibuprofen,Non-Control,"Pain relief, inflammation",caffeine,Minor,67487
+7770,47557,ibuprofen,Non-Control,"Pain relief, inflammation",leucovorin,Minor,51646
+7771,47557,ibuprofen,Non-Control,"Pain relief, inflammation",mannitol,Minor,33387
+7772,47557,ibuprofen,Non-Control,"Pain relief, inflammation",sevelamer,Minor,49368
+12356,74520,insulin degludec,Non-Control,Diabetes,macimorelin,Moderate,36916
+12357,74520,insulin degludec,Non-Control,Diabetes,ethanol,Moderate,53125
+12358,74520,insulin degludec,Non-Control,Diabetes,diazoxide,Moderate,10803
+12359,74520,insulin degludec,Non-Control,Diabetes,phentolamine,Minor,95096
+12360,74520,insulin degludec,Non-Control,Diabetes,promethazine,Moderate,39177
+12361,74520,insulin degludec,Non-Control,Diabetes,fludeoxyglucose (18f),Moderate,38705
+12362,74520,insulin degludec,Non-Control,Diabetes,prednisolone,Moderate,47261
+12363,74520,insulin degludec,Non-Control,Diabetes,sermorelin,Moderate,18529
+12364,74520,insulin degludec,Non-Control,Diabetes,tolbutamide,Moderate,42128
+12401,31396,insulin glargine,Non-Control,Diabetes,ethanol,Moderate,53125
+12402,31396,insulin glargine,Non-Control,Diabetes,diazoxide,Moderate,10803
+12403,31396,insulin glargine,Non-Control,Diabetes,phentolamine,Minor,95096
+12404,31396,insulin glargine,Non-Control,Diabetes,promethazine,Moderate,39177
+12405,31396,insulin glargine,Non-Control,Diabetes,fludeoxyglucose (18f),Moderate,38705
+12406,31396,insulin glargine,Non-Control,Diabetes,macimorelin,Moderate,36916
+12407,31396,insulin glargine,Non-Control,Diabetes,prednisolone,Moderate,47261
+12408,31396,insulin glargine,Non-Control,Diabetes,tolbutamide,Moderate,42128
+12409,31396,insulin glargine,Non-Control,Diabetes,sermorelin,Moderate,18529
+12491,84154,insulin lispro,Non-Control,Diabetes,ethanol,Moderate,53125
+12492,84154,insulin lispro,Non-Control,Diabetes,diazoxide,Moderate,10803
+12493,84154,insulin lispro,Non-Control,Diabetes,phentolamine,Minor,95096
+12494,84154,insulin lispro,Non-Control,Diabetes,macimorelin,Moderate,36916
+12495,84154,insulin lispro,Non-Control,Diabetes,promethazine,Moderate,39177
+12496,84154,insulin lispro,Non-Control,Diabetes,prednisolone,Moderate,47261
+12497,84154,insulin lispro,Non-Control,Diabetes,fludeoxyglucose (18f),Moderate,38705
+12498,84154,insulin lispro,Non-Control,Diabetes,tolbutamide,Moderate,42128
+12499,84154,insulin lispro,Non-Control,Diabetes,sermorelin,Moderate,18529
+12675,46442,levetiracetam,Non-Control,"Seizures, epilepsy",acetylcysteine,Minor,52610
+12676,46442,levetiracetam,Non-Control,"Seizures, epilepsy",ethanol,Moderate,53125
+12677,46442,levetiracetam,Non-Control,"Seizures, epilepsy",promethazine,Moderate,39177
+12678,46442,levetiracetam,Non-Control,"Seizures, epilepsy",folic acid,Minor,81096
+12679,46442,levetiracetam,Non-Control,"Seizures, epilepsy",leucovorin,Minor,51646
+12680,46442,levetiracetam,Non-Control,"Seizures, epilepsy",mannitol,Minor,33387
+12681,46442,levetiracetam,Non-Control,"Seizures, epilepsy",prednisolone,Minor,47261
+12682,46442,levetiracetam,Non-Control,"Seizures, epilepsy",sevelamer,Minor,49368
+12760,69373,levothyroxine,Non-Control,Hypothyroidism,tetraferric tricitrate decahydrate,Moderate,57852
+12761,69373,levothyroxine,Non-Control,Hypothyroidism,lanthanum carbonate,Moderate,73840
+12762,69373,levothyroxine,Non-Control,Hypothyroidism,magnesium carbonate,Moderate,81199
+12763,69373,levothyroxine,Non-Control,Hypothyroidism,sevelamer,Moderate,49368
+12764,69373,levothyroxine,Non-Control,Hypothyroidism,iodide i-131,Moderate,89593
+12765,69373,levothyroxine,Non-Control,Hypothyroidism,tolevamer,Moderate,30109
+12766,69373,levothyroxine,Non-Control,Hypothyroidism,iron sucrose,Moderate,84603
+12767,69373,levothyroxine,Non-Control,Hypothyroidism,tolbutamide,Moderate,42128
+12768,69373,levothyroxine,Non-Control,Hypothyroidism,gadoversetamide,Minor,61006
+12769,69373,levothyroxine,Non-Control,Hypothyroidism,deferoxamine,Minor,11347
+12770,69373,levothyroxine,Non-Control,Hypothyroidism,prednisolone,Minor,47261
+12771,69373,levothyroxine,Non-Control,Hypothyroidism,promethazine,Minor,39177
+12772,69373,levothyroxine,Non-Control,Hypothyroidism,amifostine,Minor,10853
+12773,69373,levothyroxine,Non-Control,Hypothyroidism,naloxone,Minor,77812
+12774,69373,levothyroxine,Non-Control,Hypothyroidism,iodixanol,Minor,80432
+12775,69373,levothyroxine,Non-Control,Hypothyroidism,ioversol,Minor,56265
+12776,69373,levothyroxine,Non-Control,Hypothyroidism,iopromide,Minor,37238
+12777,69373,levothyroxine,Non-Control,Hypothyroidism,leucovorin,Minor,51646
+12778,69373,levothyroxine,Non-Control,Hypothyroidism,mannitol,Minor,33387
+12779,69373,levothyroxine,Non-Control,Hypothyroidism,acetylcysteine,Minor,52610
+12780,69373,levothyroxine,Non-Control,Hypothyroidism,galactose,Minor,96974
+12781,69373,levothyroxine,Non-Control,Hypothyroidism,calcium acetate,Moderate,46565
+12782,69373,levothyroxine,Non-Control,Hypothyroidism,folic acid,Minor,81096
+12783,69373,levothyroxine,Non-Control,Hypothyroidism,vitamin a,Minor,22945
+12784,69373,levothyroxine,Non-Control,Hypothyroidism,hydroxocobalamin,Minor,34047
+12785,69373,levothyroxine,Non-Control,Hypothyroidism,gadodiamide,Minor,98083
+12816,85845,lisinopril,Non-Control,"High blood pressure, heart failure",amifostine,Moderate,10853
+12817,85845,lisinopril,Non-Control,"High blood pressure, heart failure",potassium iodide,Major,44902
+12818,85845,lisinopril,Non-Control,"High blood pressure, heart failure",promethazine,Moderate,39177
+12819,85845,lisinopril,Non-Control,"High blood pressure, heart failure",nitrous acid,Moderate,58109
+12820,85845,lisinopril,Non-Control,"High blood pressure, heart failure",iron sucrose,Moderate,84603
+12821,85845,lisinopril,Non-Control,"High blood pressure, heart failure",lanthanum carbonate,Moderate,73840
+12822,85845,lisinopril,Non-Control,"High blood pressure, heart failure",magnesium carbonate,Minor,81199
+12823,85845,lisinopril,Non-Control,"High blood pressure, heart failure",mannitol,Moderate,33387
+12824,85845,lisinopril,Non-Control,"High blood pressure, heart failure",prednisolone,Moderate,47261
+12825,85845,lisinopril,Non-Control,"High blood pressure, heart failure",tolbutamide,Moderate,42128
+12826,85845,lisinopril,Non-Control,"High blood pressure, heart failure",deferoxamine,Minor,11347
+12827,85845,lisinopril,Non-Control,"High blood pressure, heart failure",iodixanol,Minor,80432
+12828,85845,lisinopril,Non-Control,"High blood pressure, heart failure",acetylcysteine,Minor,52610
+12829,85845,lisinopril,Non-Control,"High blood pressure, heart failure",iopromide,Minor,37238
+12830,85845,lisinopril,Non-Control,"High blood pressure, heart failure",galactose,Minor,96974
+12831,85845,lisinopril,Non-Control,"High blood pressure, heart failure",folic acid,Minor,81096
+12832,85845,lisinopril,Non-Control,"High blood pressure, heart failure",vitamin a,Minor,22945
+12833,85845,lisinopril,Non-Control,"High blood pressure, heart failure",leucovorin,Minor,51646
+12834,85845,lisinopril,Non-Control,"High blood pressure, heart failure",hydroxocobalamin,Minor,34047
+12835,85845,lisinopril,Non-Control,"High blood pressure, heart failure",gadodiamide,Minor,98083
+12836,85845,lisinopril,Non-Control,"High blood pressure, heart failure",gadoversetamide,Minor,61006
+12837,85845,lisinopril,Non-Control,"High blood pressure, heart failure",sevelamer,Minor,49368
+13018,35400,losartan,Non-Control,High blood pressure,amifostine,Moderate,10853
+13019,35400,losartan,Non-Control,High blood pressure,potassium iodide,Major,44902
+13020,35400,losartan,Non-Control,High blood pressure,promethazine,Moderate,39177
+13021,35400,losartan,Non-Control,High blood pressure,nitrous acid,Moderate,58109
+13022,35400,losartan,Non-Control,High blood pressure,prednisolone,Moderate,47261
+13023,35400,losartan,Non-Control,High blood pressure,tolbutamide,Minor,42128
+13024,35400,losartan,Non-Control,High blood pressure,mannitol,Minor,33387
+13025,35400,losartan,Non-Control,High blood pressure,acetylcysteine,Minor,52610
+13026,35400,losartan,Non-Control,High blood pressure,iopromide,Minor,37238
+13027,35400,losartan,Non-Control,High blood pressure,galactose,Minor,96974
+13028,35400,losartan,Non-Control,High blood pressure,folic acid,Minor,81096
+13029,35400,losartan,Non-Control,High blood pressure,leucovorin,Minor,51646
+13030,35400,losartan,Non-Control,High blood pressure,gadodiamide,Minor,98083
+13031,35400,losartan,Non-Control,High blood pressure,sevelamer,Minor,49368
+13062,49225,meloxicam,Non-Control,"Pain relief, inflammation",ethanol,Moderate,53125
+13063,49225,meloxicam,Non-Control,"Pain relief, inflammation",iothalamic acid,Major,46641
+13064,49225,meloxicam,Non-Control,"Pain relief, inflammation",deferasirox,Major,11731
+13065,49225,meloxicam,Non-Control,"Pain relief, inflammation",tolevamer,Major,30109
+13066,49225,meloxicam,Non-Control,"Pain relief, inflammation",iopromide,Major,37238
+13067,49225,meloxicam,Non-Control,"Pain relief, inflammation",iopamidol,Major,37446
+13068,49225,meloxicam,Non-Control,"Pain relief, inflammation",macimorelin,Moderate,36916
+13069,49225,meloxicam,Non-Control,"Pain relief, inflammation",iodipamide,Major,87496
+13070,49225,meloxicam,Non-Control,"Pain relief, inflammation",iodixanol,Major,80432
+13071,49225,meloxicam,Non-Control,"Pain relief, inflammation",iohexol,Major,52403
+13072,49225,meloxicam,Non-Control,"Pain relief, inflammation",ioversol,Major,56265
+13073,49225,meloxicam,Non-Control,"Pain relief, inflammation",ioxilan,Major,43286
+13074,49225,meloxicam,Non-Control,"Pain relief, inflammation",potassium iodide,Moderate,44902
+13075,49225,meloxicam,Non-Control,"Pain relief, inflammation",prednisolone,Moderate,47261
+13076,49225,meloxicam,Non-Control,"Pain relief, inflammation",tolbutamide,Moderate,42128
+13077,49225,meloxicam,Non-Control,"Pain relief, inflammation",promethazine,Minor,39177
+13078,49225,meloxicam,Non-Control,"Pain relief, inflammation",galactose,Minor,96974
+13079,49225,meloxicam,Non-Control,"Pain relief, inflammation",diatrizoate,Major,88649
+13080,49225,meloxicam,Non-Control,"Pain relief, inflammation",ibritumomab tiuxetan,Major,76531
+13081,49225,meloxicam,Non-Control,"Pain relief, inflammation",tositumomab (i-131),Major,66679
+13082,49225,meloxicam,Non-Control,"Pain relief, inflammation",tositumomab,Major,49493
+13083,49225,meloxicam,Non-Control,"Pain relief, inflammation",folic acid,Minor,81096
+13084,49225,meloxicam,Non-Control,"Pain relief, inflammation",leucovorin,Minor,51646
+13139,91234,metformin,Non-Control,Type 2 diabetes,ethanol,Major,53125
+13140,91234,metformin,Non-Control,Type 2 diabetes,diazoxide,Moderate,10803
+13141,91234,metformin,Non-Control,Type 2 diabetes,iodipamide,Major,87496
+13142,91234,metformin,Non-Control,Type 2 diabetes,iodixanol,Major,80432
+13143,91234,metformin,Non-Control,Type 2 diabetes,iohexol,Major,52403
+13144,91234,metformin,Non-Control,Type 2 diabetes,iopamidol,Major,37446
+13145,91234,metformin,Non-Control,Type 2 diabetes,iopromide,Major,37238
+13146,91234,metformin,Non-Control,Type 2 diabetes,iothalamic acid,Major,46641
+13147,91234,metformin,Non-Control,Type 2 diabetes,ioversol,Major,56265
+13148,91234,metformin,Non-Control,Type 2 diabetes,ioxilan,Major,43286
+13149,91234,metformin,Non-Control,Type 2 diabetes,prednisolone,Moderate,47261
+13150,91234,metformin,Non-Control,Type 2 diabetes,tolbutamide,Moderate,42128
+13151,91234,metformin,Non-Control,Type 2 diabetes,promethazine,Moderate,39177
+13152,91234,metformin,Non-Control,Type 2 diabetes,gadoversetamide,Minor,61006
+13153,91234,metformin,Non-Control,Type 2 diabetes,leucovorin,Minor,51646
+13154,91234,metformin,Non-Control,Type 2 diabetes,acetylcysteine,Minor,52610
+13155,91234,metformin,Non-Control,Type 2 diabetes,galactose,Minor,96974
+13156,91234,metformin,Non-Control,Type 2 diabetes,diatrizoate,Major,88649
+13157,91234,metformin,Non-Control,Type 2 diabetes,sermorelin,Moderate,18529
+13158,91234,metformin,Non-Control,Type 2 diabetes,folic acid,Minor,81096
+13159,91234,metformin,Non-Control,Type 2 diabetes,vitamin a,Minor,22945
+13202,98436,methocarbamol,Non-Control,Muscle spasms,ethanol,Moderate,53125
+13203,98436,methocarbamol,Non-Control,Muscle spasms,diazoxide,Moderate,10803
+13204,98436,methocarbamol,Non-Control,Muscle spasms,phentolamine,Moderate,95096
+13205,98436,methocarbamol,Non-Control,Muscle spasms,promethazine,Moderate,39177
+13206,98436,methocarbamol,Non-Control,Muscle spasms,amyl nitrite,Moderate,58386
+13207,98436,methocarbamol,Non-Control,Muscle spasms,prednisolone,Minor,47261
+13208,98436,methocarbamol,Non-Control,Muscle spasms,leucovorin,Minor,51646
+13209,98436,methocarbamol,Non-Control,Muscle spasms,folic acid,Minor,81096
+13454,53383,methylphenidate,CII,"ADHD, narcolepsy",ethanol,Moderate,53125
+13455,53383,methylphenidate,CII,"ADHD, narcolepsy",iobenguane (i-123),Moderate,21716
+13456,53383,methylphenidate,CII,"ADHD, narcolepsy",iobenguane (i-131),Major,28573
+13457,53383,methylphenidate,CII,"ADHD, narcolepsy",ioflupane i-123,Moderate,92573
+13458,53383,methylphenidate,CII,"ADHD, narcolepsy",iohexol,Major,52403
+13459,53383,methylphenidate,CII,"ADHD, narcolepsy",iopamidol,Major,37446
+13460,53383,methylphenidate,CII,"ADHD, narcolepsy",methylene blue,Major,64452
+13461,53383,methylphenidate,CII,"ADHD, narcolepsy",promethazine,Moderate,39177
+13462,53383,methylphenidate,CII,"ADHD, narcolepsy",prednisolone,Minor,47261
+13463,53383,methylphenidate,CII,"ADHD, narcolepsy",leucovorin,Minor,51646
+13464,53383,methylphenidate,CII,"ADHD, narcolepsy",folic acid,Minor,81096
+13498,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",cobicistat,Major,63331
+13499,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",deferasirox,Major,11731
+13500,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",diazoxide,Moderate,10803
+13501,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",tolevamer,Moderate,30109
+13502,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",iopamidol,Major,37446
+13503,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",iodide i-131,Moderate,89593
+13504,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",macimorelin,Moderate,36916
+13505,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",edrophonium,Moderate,70341
+13506,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",iohexol,Major,52403
+13507,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",iodide i-123,Moderate,12814
+13508,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",tolbutamide,Moderate,42128
+13509,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",promethazine,Minor,39177
+13510,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",naloxone,Minor,77812
+13511,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",flumazenil,Minor,80004
+13512,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",acetylcysteine,Minor,52610
+13513,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",galactose,Minor,96974
+13514,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",magnesium sulfate,Moderate,16998
+13515,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",folic acid,Minor,81096
+13516,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",leucovorin,Minor,51646
+13517,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",mannitol,Minor,33387
+13518,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions",prednisolone,Minor,47261
+13665,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",iodide i-131,Moderate,89593
+13666,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",promethazine,Minor,39177
+13667,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",macimorelin,Minor,36916
+13668,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",iodide i-123,Moderate,12814
+13669,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",naloxone,Minor,77812
+13670,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",acetylcysteine,Minor,52610
+13671,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",iopromide,Minor,37238
+13672,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",galactose,Minor,96974
+13673,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",ethanol,Major,53125
+13674,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",folic acid,Minor,81096
+13675,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",leucovorin,Minor,51646
+13676,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",mannitol,Minor,33387
+13677,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",sevelamer,Minor,49368
+13678,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections",prednisolone,Minor,47261
+13911,64873,morphine,CII,Pain relief,ethanol,Major,53125
+13912,64873,morphine,CII,Pain relief,amyl nitrite,Moderate,58386
+13913,64873,morphine,CII,Pain relief,diazoxide,Moderate,10803
+13914,64873,morphine,CII,Pain relief,iohexol,Major,52403
+13915,64873,morphine,CII,Pain relief,iopamidol,Major,37446
+13916,64873,morphine,CII,Pain relief,methylene blue,Major,64452
+13917,64873,morphine,CII,Pain relief,naloxone,Moderate,77812
+13918,64873,morphine,CII,Pain relief,phentolamine,Moderate,95096
+13919,64873,morphine,CII,Pain relief,promethazine,Moderate,39177
+13920,64873,morphine,CII,Pain relief,sevelamer,Minor,49368
+13921,64873,morphine,CII,Pain relief,prednisolone,Minor,47261
+13922,64873,morphine,CII,Pain relief,leucovorin,Minor,51646
+13923,64873,morphine,CII,Pain relief,mannitol,Minor,33387
+13924,64873,morphine,CII,Pain relief,flumazenil,Minor,80004
+13925,64873,morphine,CII,Pain relief,iodixanol,Minor,80432
+13926,64873,morphine,CII,Pain relief,acetylcysteine,Minor,52610
+13927,64873,morphine,CII,Pain relief,ioversol,Minor,56265
+13928,64873,morphine,CII,Pain relief,iopromide,Minor,37238
+13929,64873,morphine,CII,Pain relief,galactose,Minor,96974
+13930,64873,morphine,CII,Pain relief,folic acid,Minor,81096
+13931,64873,morphine,CII,Pain relief,caffeine,Minor,67487
+14781,15641,omeprazole,Non-Control,"Acid reflux, ulcers",tolevamer,Moderate,30109
+14782,15641,omeprazole,Non-Control,"Acid reflux, ulcers",tolbutamide,Minor,42128
+14783,15641,omeprazole,Non-Control,"Acid reflux, ulcers",gadoversetamide,Minor,61006
+14784,15641,omeprazole,Non-Control,"Acid reflux, ulcers",sevelamer,Minor,49368
+14785,15641,omeprazole,Non-Control,"Acid reflux, ulcers",prednisolone,Minor,47261
+14786,15641,omeprazole,Non-Control,"Acid reflux, ulcers",promethazine,Minor,39177
+14787,15641,omeprazole,Non-Control,"Acid reflux, ulcers",leucovorin,Minor,51646
+14788,15641,omeprazole,Non-Control,"Acid reflux, ulcers",mannitol,Minor,33387
+14789,15641,omeprazole,Non-Control,"Acid reflux, ulcers",deferoxamine,Minor,11347
+14790,15641,omeprazole,Non-Control,"Acid reflux, ulcers",amifostine,Minor,10853
+14791,15641,omeprazole,Non-Control,"Acid reflux, ulcers",naloxone,Minor,77812
+14792,15641,omeprazole,Non-Control,"Acid reflux, ulcers",flumazenil,Minor,80004
+14793,15641,omeprazole,Non-Control,"Acid reflux, ulcers",iodixanol,Minor,80432
+14794,15641,omeprazole,Non-Control,"Acid reflux, ulcers",acetylcysteine,Minor,52610
+14795,15641,omeprazole,Non-Control,"Acid reflux, ulcers",iopamidol,Minor,37446
+14796,15641,omeprazole,Non-Control,"Acid reflux, ulcers",ioversol,Minor,56265
+14797,15641,omeprazole,Non-Control,"Acid reflux, ulcers",iopromide,Minor,37238
+14798,15641,omeprazole,Non-Control,"Acid reflux, ulcers",galactose,Minor,96974
+14799,15641,omeprazole,Non-Control,"Acid reflux, ulcers",folic acid,Minor,81096
+14800,15641,omeprazole,Non-Control,"Acid reflux, ulcers",vitamin a,Minor,22945
+14801,15641,omeprazole,Non-Control,"Acid reflux, ulcers",hydroxocobalamin,Minor,34047
+14802,15641,omeprazole,Non-Control,"Acid reflux, ulcers",gadodiamide,Minor,98083
+15687,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",ethanol,Moderate,53125
+15688,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",cobicistat,Moderate,63331
+15689,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",methylene blue,Major,64452
+15690,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",promethazine,Moderate,39177
+15691,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",levoleucovorin,Moderate,42956
+15692,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",macimorelin,Moderate,36916
+15693,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",prednisolone,Moderate,47261
+15694,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",tolbutamide,Moderate,42128
+15695,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",folic acid,Moderate,81096
+15696,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",leucovorin,Moderate,51646
+15697,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy",sevelamer,Minor,49368
+15980,59213,potassium chloride,Non-Control,Potassium supplement,promethazine,Major,39177
+15981,59213,potassium chloride,Non-Control,Potassium supplement,prednisolone,Minor,47261
+15982,59213,potassium chloride,Non-Control,Potassium supplement,tolbutamide,Minor,42128
+15983,59213,potassium chloride,Non-Control,Potassium supplement,naloxone,Minor,77812
+15984,59213,potassium chloride,Non-Control,Potassium supplement,iodixanol,Minor,80432
+15985,59213,potassium chloride,Non-Control,Potassium supplement,acetylcysteine,Minor,52610
+15986,59213,potassium chloride,Non-Control,Potassium supplement,ioversol,Minor,56265
+15987,59213,potassium chloride,Non-Control,Potassium supplement,iopromide,Minor,37238
+15988,59213,potassium chloride,Non-Control,Potassium supplement,galactose,Minor,96974
+15989,59213,potassium chloride,Non-Control,Potassium supplement,folic acid,Minor,81096
+15990,59213,potassium chloride,Non-Control,Potassium supplement,vitamin a,Minor,22945
+15991,59213,potassium chloride,Non-Control,Potassium supplement,leucovorin,Minor,51646
+15992,59213,potassium chloride,Non-Control,Potassium supplement,mannitol,Minor,33387
+15993,59213,potassium chloride,Non-Control,Potassium supplement,gadodiamide,Minor,98083
+15994,59213,potassium chloride,Non-Control,Potassium supplement,sevelamer,Minor,49368
+18480,23393,prednisone,Non-Control,"Inflammation, allergic reactions",cobicistat,Moderate,63331
+18481,23393,prednisone,Non-Control,"Inflammation, allergic reactions",deferasirox,Major,11731
+18482,23393,prednisone,Non-Control,"Inflammation, allergic reactions",diazoxide,Moderate,10803
+18483,23393,prednisone,Non-Control,"Inflammation, allergic reactions",tolevamer,Moderate,30109
+18484,23393,prednisone,Non-Control,"Inflammation, allergic reactions",magnesium sulfate,Moderate,16998
+18485,23393,prednisone,Non-Control,"Inflammation, allergic reactions",iodide i-131,Moderate,89593
+18486,23393,prednisone,Non-Control,"Inflammation, allergic reactions",macimorelin,Moderate,36916
+18487,23393,prednisone,Non-Control,"Inflammation, allergic reactions",edrophonium,Moderate,70341
+18488,23393,prednisone,Non-Control,"Inflammation, allergic reactions",iodide i-123,Moderate,12814
+18489,23393,prednisone,Non-Control,"Inflammation, allergic reactions",tolbutamide,Moderate,42128
+18490,23393,prednisone,Non-Control,"Inflammation, allergic reactions",sevelamer,Minor,49368
+18491,23393,prednisone,Non-Control,"Inflammation, allergic reactions",promethazine,Minor,39177
+18492,23393,prednisone,Non-Control,"Inflammation, allergic reactions",leucovorin,Minor,51646
+18493,23393,prednisone,Non-Control,"Inflammation, allergic reactions",mannitol,Minor,33387
+18494,23393,prednisone,Non-Control,"Inflammation, allergic reactions",deferoxamine,Minor,11347
+18495,23393,prednisone,Non-Control,"Inflammation, allergic reactions",prednisolone,Minor,47261
+18496,23393,prednisone,Non-Control,"Inflammation, allergic reactions",iodixanol,Minor,80432
+18497,23393,prednisone,Non-Control,"Inflammation, allergic reactions",acetylcysteine,Minor,52610
+18498,23393,prednisone,Non-Control,"Inflammation, allergic reactions",ioversol,Minor,56265
+18499,23393,prednisone,Non-Control,"Inflammation, allergic reactions",iopromide,Minor,37238
+18500,23393,prednisone,Non-Control,"Inflammation, allergic reactions",galactose,Minor,96974
+18501,23393,prednisone,Non-Control,"Inflammation, allergic reactions",folic acid,Minor,81096
+18502,23393,prednisone,Non-Control,"Inflammation, allergic reactions",vitamin a,Minor,22945
+18503,23393,prednisone,Non-Control,"Inflammation, allergic reactions",gadodiamide,Minor,98083
+18504,23393,prednisone,Non-Control,"Inflammation, allergic reactions",gadoversetamide,Minor,61006
+20392,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",cobicistat,Major,63331
+20393,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",deferasirox,Moderate,11731
+20394,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",ioflupane i-123,Moderate,92573
+20395,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",iopamidol,Major,37446
+20396,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",macimorelin,Major,36916
+20397,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",iohexol,Major,52403
+20398,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",amyl nitrite,Moderate,58386
+20399,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",acetylcysteine,Minor,52610
+20400,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",iopromide,Minor,37238
+20401,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",galactose,Minor,96974
+20402,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",ethanol,Minor,53125
+20403,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",diazoxide,Moderate,10803
+20404,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",phentolamine,Moderate,95096
+20405,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",promethazine,Moderate,39177
+20406,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",physostigmine,Moderate,54250
+20407,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",physostigmine (ophthalmic),Moderate,91596
+20408,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",tolbutamide,Moderate,42128
+20409,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",folic acid,Minor,81096
+20410,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",caffeine,Minor,67487
+20411,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",leucovorin,Minor,51646
+20412,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",mannitol,Minor,33387
+20413,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",prednisolone,Minor,47261
+20414,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder",sevelamer,Minor,49368
+20741,62103,rosuvastatin,Non-Control,High cholesterol,cobicistat,Moderate,63331
+20742,62103,rosuvastatin,Non-Control,High cholesterol,magnesium carbonate,Moderate,81199
+20743,62103,rosuvastatin,Non-Control,High cholesterol,acetylcysteine,Minor,52610
+20744,62103,rosuvastatin,Non-Control,High cholesterol,iopamidol,Minor,37446
+20745,62103,rosuvastatin,Non-Control,High cholesterol,ioversol,Minor,56265
+20746,62103,rosuvastatin,Non-Control,High cholesterol,ethanol,Moderate,53125
+20747,62103,rosuvastatin,Non-Control,High cholesterol,folic acid,Minor,81096
+20748,62103,rosuvastatin,Non-Control,High cholesterol,leucovorin,Minor,51646
+20749,62103,rosuvastatin,Non-Control,High cholesterol,sevelamer,Minor,49368
+20750,62103,rosuvastatin,Non-Control,High cholesterol,prednisolone,Minor,47261
+20751,62103,rosuvastatin,Non-Control,High cholesterol,promethazine,Minor,39177
+20785,82344,semaglutide,Non-Control,"Type 2 diabetes, weight management",ethanol,Moderate,53125
+20786,82344,semaglutide,Non-Control,"Type 2 diabetes, weight management",diazoxide,Moderate,10803
+20787,82344,semaglutide,Non-Control,"Type 2 diabetes, weight management",promethazine,Moderate,39177
+20788,82344,semaglutide,Non-Control,"Type 2 diabetes, weight management",prednisolone,Moderate,47261
+20789,82344,semaglutide,Non-Control,"Type 2 diabetes, weight management",sermorelin,Moderate,18529
+20790,82344,semaglutide,Non-Control,"Type 2 diabetes, weight management",tolbutamide,Moderate,42128
+20803,71225,sertraline,Non-Control,"Depression, anxiety",cobicistat,Moderate,63331
+20804,71225,sertraline,Non-Control,"Depression, anxiety",methylene blue,Major,64452
+20805,71225,sertraline,Non-Control,"Depression, anxiety",deferasirox,Moderate,11731
+20806,71225,sertraline,Non-Control,"Depression, anxiety",ioflupane i-123,Moderate,92573
+20807,71225,sertraline,Non-Control,"Depression, anxiety",iopamidol,Major,37446
+20808,71225,sertraline,Non-Control,"Depression, anxiety",iobenguane (i-123),Moderate,21716
+20809,71225,sertraline,Non-Control,"Depression, anxiety",macimorelin,Major,36916
+20810,71225,sertraline,Non-Control,"Depression, anxiety",iohexol,Major,52403
+20811,71225,sertraline,Non-Control,"Depression, anxiety",tolbutamide,Moderate,42128
+20812,71225,sertraline,Non-Control,"Depression, anxiety",acetylcysteine,Minor,52610
+20813,71225,sertraline,Non-Control,"Depression, anxiety",iopromide,Minor,37238
+20814,71225,sertraline,Non-Control,"Depression, anxiety",galactose,Minor,96974
+20815,71225,sertraline,Non-Control,"Depression, anxiety",ethanol,Moderate,53125
+20816,71225,sertraline,Non-Control,"Depression, anxiety",promethazine,Moderate,39177
+20817,71225,sertraline,Non-Control,"Depression, anxiety",mannitol,Moderate,33387
+20818,71225,sertraline,Non-Control,"Depression, anxiety",ibritumomab tiuxetan,Moderate,76531
+20819,71225,sertraline,Non-Control,"Depression, anxiety",tositumomab (i-131),Moderate,66679
+20820,71225,sertraline,Non-Control,"Depression, anxiety",tositumomab,Moderate,49493
+20821,71225,sertraline,Non-Control,"Depression, anxiety",folic acid,Minor,81096
+20822,71225,sertraline,Non-Control,"Depression, anxiety",leucovorin,Minor,51646
+20823,71225,sertraline,Non-Control,"Depression, anxiety",prednisolone,Minor,47261
+20824,71225,sertraline,Non-Control,"Depression, anxiety",hydroxocobalamin,Minor,34047
+20825,71225,sertraline,Non-Control,"Depression, anxiety",gadodiamide,Minor,98083
+20826,71225,sertraline,Non-Control,"Depression, anxiety",gadoversetamide,Minor,61006
+20827,71225,sertraline,Non-Control,"Depression, anxiety",sevelamer,Minor,49368
+21165,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",ethanol,Moderate,53125
+21166,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",amifostine,Moderate,10853
+21167,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",cobicistat,Moderate,63331
+21168,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",deferasirox,Moderate,11731
+21169,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",diazoxide,Minor,10803
+21170,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",nitrous acid,Moderate,58109
+21171,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",amyl nitrite,Major,58386
+21172,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",prednisolone,Minor,47261
+21173,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",phentolamine,Moderate,95096
+21174,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension",folic acid,Minor,81096
+21248,70547,testosterone,CIII,Hormone replacement therapy,deferasirox,Moderate,11731
+21249,70547,testosterone,CIII,Hormone replacement therapy,prednisolone,Moderate,47261
+21250,70547,testosterone,CIII,Hormone replacement therapy,tolbutamide,Moderate,42128
+21251,70547,testosterone,CIII,Hormone replacement therapy,sevelamer,Minor,49368
+21252,70547,testosterone,CIII,Hormone replacement therapy,leucovorin,Minor,51646
+21253,70547,testosterone,CIII,Hormone replacement therapy,deferoxamine,Minor,11347
+21254,70547,testosterone,CIII,Hormone replacement therapy,promethazine,Minor,39177
+21255,70547,testosterone,CIII,Hormone replacement therapy,folic acid,Minor,81096
+21256,70547,testosterone,CIII,Hormone replacement therapy,gadodiamide,Minor,98083

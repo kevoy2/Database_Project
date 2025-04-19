@@ -1,0 +1,48 @@
+,DrugID,Generic Name,DEA Schedule,Common Uses
+0,76338,alprazolam,CIV,"Anxiety, panic disorders"
+18,11966,amlodipine,Non-Control,"High blood pressure, chest pain"
+44,70433,amoxicillin,Non-Control,Bacterial infections
+51,16606,aripiprazole,Non-Control,"Schizophrenia, bipolar disorder, depression"
+67,71567,azithromycin,Non-Control,Bacterial infections
+77,28093,carvedilol,Non-Control,"High blood pressure, heart failure"
+118,20365,cephalexin,Non-Control,Bacterial infections
+125,50549,cetirizine,Non-Control,Allergies
+136,36135,citalopram,Non-Control,Depression
+163,82480,clonazepam,CIV,"Anxiety, seizures"
+184,37753,cyclobenzaprine,Non-Control,Muscle spasms
+196,36217,dulaglutide,Non-Control,Type 2 diabetes
+202,36969,duloxetine,Non-Control,"Depression, anxiety, nerve pain"
+223,38112,estradiol,Non-Control,Hormone replacement therapy
+233,70754,famotidine,Non-Control,"Acid reflux, heartburn"
+249,14645,finasteride,Non-Control,Enlarged prostate
+255,21436,fluconazole,Non-Control,Fungal infections
+272,21863,fluoxetine,Non-Control,"Depression, OCD"
+291,82950,folic acid,Non-Control,"Folic acid deficiency, pregnancy support"
+721,55882,furosemide,Non-Control,"Fluid retention, high blood pressure"
+749,96473,gabapentin,Non-Control,"Nerve pain, seizures"
+762,31608,hydrochlorothiazide,Non-Control,"High blood pressure, fluid retention"
+784,47557,ibuprofen,Non-Control,"Pain relief, inflammation"
+810,74520,insulin degludec,Non-Control,Diabetes
+819,31396,insulin glargine,Non-Control,Diabetes
+828,84154,insulin lispro,Non-Control,Diabetes
+837,46442,levetiracetam,Non-Control,"Seizures, epilepsy"
+845,69373,levothyroxine,Non-Control,Hypothyroidism
+871,85845,lisinopril,Non-Control,"High blood pressure, heart failure"
+893,35400,losartan,Non-Control,High blood pressure
+907,49225,meloxicam,Non-Control,"Pain relief, inflammation"
+930,91234,metformin,Non-Control,Type 2 diabetes
+951,98436,methocarbamol,Non-Control,Muscle spasms
+959,53383,methylphenidate,CII,"ADHD, narcolepsy"
+970,14492,methylprednisolone,Non-Control,"Inflammation, allergic reactions"
+991,32767,metronidazole,Non-Control,"Bacterial infections, parasitic infections"
+1005,64873,morphine,CII,Pain relief
+1026,15641,omeprazole,Non-Control,"Acid reflux, ulcers"
+1048,77888,oxcarbazepine,Non-Control,"Seizures, Epilepsy"
+1059,59213,potassium chloride,Non-Control,Potassium supplement
+1074,23393,prednisone,Non-Control,"Inflammation, allergic reactions"
+1099,39366,quetiapine,Non-Control,"Schizophrenia, bipolar disorder"
+1122,62103,rosuvastatin,Non-Control,High cholesterol
+1133,82344,semaglutide,Non-Control,"Type 2 diabetes, weight management"
+1139,71225,sertraline,Non-Control,"Depression, anxiety"
+1164,99196,tadalafil,Non-Control,"Erectile dysfunction, pulmonary hypertension"
+1174,70547,testosterone,CIII,Hormone replacement therapy

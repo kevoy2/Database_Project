@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link rel="icon" type="image/x-icon" href="./medic.png">
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<title> User Registration </title>
 		<script type="text/javascript" src="register.js"></script>
 	</head>
 	<body>
 		<div class="header">
+			<img src="./medic.png" alt="logo" class="logo">
 			<div class="name">
-				<h1>User Registration</h1>
+				<h1>MyWebMeds</h1>
 			</div>
 		</div> 
 		<div class="content">
-			<form>
+			<form class="user-form">
 				<h3>Role Selection:</h3>
 				<label for="roles">What are you registering as?</label>
 				<select name="roles" id="roles" required>
@@ -23,25 +25,28 @@
 				</select>
 			</form>
 			<br>
-			<form id="register">
+			<form class="user-form" id="register">
 				<h3>General Information:</h3>
 				<label for="phone">Phone Number:</label> 
-				<input name="phone" id=phone" type="string" required> 
+				<input name="phone" id="phone" type="string" minlength="12" maxlength="15" required> 
 				<br>
 				<label for="street">Street Name:</label> 
-				<input name="street" id="street" type="string" required> 
+				<input name="street" id="street" type="string" maxlength="100" required> 
 				<br>
 				<label for="city">City Name:</label> 
-				<input name="city" id="city" type="string" required> 
+				<input name="city" id="city" type="string" maxlength="60" required> 
 				<br>
 				<label for="state">State Name:</label> 
-				<input name="state" id="state" type="string" required> 
+				<input name="state" id="state" type="string" minlength="2" maxlength="2" required> 
 				<br>
 				<label for="zip">Zipcode:</label> 
-				<input name="zip" id="zip" type="string" required> 
+				<input name="zip" id="zip" type="string" minlength="5" maxlength="5" required> 
+				<br>
+				<label for="name">Name:</label>
+				<input name="name" id="name" type="string" maxlength="60" required>
 				<br>
 				<label for="password">Password:</label> 
-				<input name="password" id="password" type="password" required> 
+				<input name="password" id="password" type="password" maxlength="25" required> 
 				<br>
 			</form>
 		</div>
