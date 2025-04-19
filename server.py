@@ -171,7 +171,7 @@ def showPerscribe():
     val = (data['id'],)
     cursor.execute(sql, val)
     resp = cursor.fetchone()
-    if resp[0] == 1:
+    if resp[0] >= 1:
         cursor.execute(sql, val)
         sql = 'SELECT D.Drug_ID, D.Generic_Name, D.DEA_Schedule, D.Common_Uses FROM drug D, takes T WHERE D.Drug_ID = T.Drug_ID AND T.SSN = %s'
         val = (data['id'],)
