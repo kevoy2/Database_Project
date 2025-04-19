@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const response = await fetch("http://localhost:5000/view-stock", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ...formObj }),
+        body: JSON.stringify({ ...formObj, exempt: "CII" }),
       })
       .then(response => response.json());
       console.log(response["message"]);

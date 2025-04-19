@@ -314,8 +314,8 @@ def viewStock():
     cursor = cnx.cursor()
     data = request.get_json()
     if request.method == 'POST':
-        sql = 'SELECT D.Generic_Name, S.Quantity FROM drug D, stock S WHERE D.Drug_ID=S.Drug_ID AND S.Pharmacy_ID=%s'
-        val = (data['pharma'],)
+        sql = 'SELECT D.Generic_Name, S.Quantity FROM drug D, stock S WHERE D.Drug_ID=S.Drug_ID AND S.Pharmacy_ID=%s AND D.DEA_Schedule<>%s'
+        val = (data['pharma'], data['exempt'])
         cursor.execute(sql, val)
         result = cursor.fetchall()
         x = [row[0] for row in result]

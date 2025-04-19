@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const response = await fetch("http://localhost:5000/view-stock", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ pharma: sessionStorage.getItem("id") }),
+        body: JSON.stringify({ pharma: sessionStorage.getItem("id"), exempt: "" }),
       })
       .then(response => response.json());
       console.log(response["message"]);
