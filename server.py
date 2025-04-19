@@ -145,7 +145,7 @@ def addPerscribe():
         print(4)
         print(blocked is not None)
         print(data['override'] == 'n')
-        if not(blocked is None and data['override'] == 'n'):
+        if blocked is not None and data['override'] == 'n':
             print(5)
             cnx.close()
             return jsonify({'message': 'Drug interaction too severe.'})

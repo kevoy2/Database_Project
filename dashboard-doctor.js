@@ -78,10 +78,10 @@ document.addEventListener("DOMContentLoaded", function () {
         let codeList = "<ul>";
         let medsList = "<ul>";
         for(const x of response["meds"]) {
-          medsList += "<il><span>" + x + "</span></il>";
+          medsList += "<li><span>" + x + "</span></li>";
         }
         for(const y of response["codes"]) {
-          codeList += "<il><span>" + y + "</span></il>";
+          codeList += "<li><span>" + y + "</span></li>";
         }
         codeList += "</ul>";
         medsList += "</ul>";
