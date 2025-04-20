@@ -233,7 +233,7 @@ def viewPatient():
         cursor.execute(sql, val)
         resp = cursor.fetchone()
         if resp[0] == 1:
-            sql = 'SELECT SSN, Name, Gender, Name FROM patient WHERE SSN=%s'
+            sql = 'SELECT SSN, Name, Gender, Phone FROM patient WHERE SSN=%s'
             val = (data['ssn'],)
             cursor.execute(sql, val)
             resp = cursor.fetchone()
