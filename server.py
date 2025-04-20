@@ -117,13 +117,12 @@ def addPerscribe():
     cursor.execute(sql, val)
     resp = cursor.fetchone()
     if resp[0] == 1:
-        print(1)
         sql = 'SELECT D.Drug_ID, D.Generic_Name FROM takes T JOIN drug D ON T.Drug_ID = D.Drug_ID WHERE T.SSN = %s'
         val = (data['ssn'],)
         cursor.execute(sql, val)
         current_drugs = cursor.fetchall()
         flagged = []
-        blocked = [1,]
+        blocked = []
         sql = 'SELECT Generic_Name FROM drug WHERE Drug_ID = %s'
         val = (data['meds'],)
         cursor.execute(sql, val)
@@ -131,31 +130,26 @@ def addPerscribe():
         print(data['override'])
         for drug in current_drugs:
             print(drug)
+            print(name[0])
             sql = 'SELECT Risk_Level FROM interactions WHERE Drug_ID = %s AND Interacts_With = %s'
-            val = (drug[1], name[0])
+            val = (drug[0], name[0])
             cursor.execute(sql, val)
             result = cursor.fetchone()
             print(result)
             if result:
-                risk = result['Risk_Level']
+                risk = result[0]
                 if risk.lower() == 'major':
-                    blocked.append(drug['Drug_Name'])
+                    blocked.append(drug[1])
                 elif risk.lower() in ['moderate', 'low']:
-                    flagged.append({'with': drug['Drug_Name'], 'risk': risk})
-        print(4)
-        print(blocked is not None)
-        print(data['override'] == 'n')
-        if blocked is not None and data['override'] == 'n':
-            print(5)
+                    flagged.append({'with': drug[1], 'risk': risk})
+        if len(blocked) != 0 and data['override'] == 'n':
             cnx.close()
             return jsonify({'message': 'Drug interaction too severe.'})
-        print(6)
         sql = 'INSERT INTO Takes (SSN, Drug_ID) VALUES (%s, %s)'
         val = (data['ssn'], data['meds'])
         cursor.execute(sql, val)
         cnx.commit()
         cnx.close()
-        print(7)
         return jsonify({'message': 'Perscrition added successfully.'})
     else: 
         cnx.commit()
@@ -296,7 +290,7 @@ def restock():
     val = (data['pharma'], data['meds'])
     cursor.execute(sql, val)
     resp = cursor.fetchone()
-    if resp == 0:
+    if resp[0] == 0:
         sql = 'INSERT INTO stock (Pharmacy_ID, Drug_ID, Quantity) VALUES (%s, %s, %s)'
         val = (data['pharma'], data['meds'], data['quan'])
         cursor.execute(sql, val)
@@ -306,7 +300,28 @@ def restock():
         cursor.execute(sql, val)
     cnx.commit()
     cnx.close()
-    return jsonify({'message': 'Stock values added successfully'})
+    return jsonify({'message': 'Stock added successfully'})
+
+@app.route('/remove-stock', methods=['POST'])
+def unstock():
+    cnx = mysql.connector.connect(user=os.getenv('USER'), password=os.getenv('PASS'), host=os.getenv('HOST'), database=os.getenv('DB'))
+    data = request.get_json()
+    cursor = cnx.cursor(buffered=True)
+    sql = 'SELECT COUNT(*) FROM stock WHERE Pharmacy_ID=%s AND Drug_ID=%s'
+    val = (data['pharma'], data['del'])
+    cursor.execute(sql, val)
+    resp = cursor.fetchone()
+    if resp[0] == 0:
+        cnx.commit()
+        cnx.close()
+        return jsonify({'message': 'You don\'t have that medicine in stock.'})
+    else:
+        sql = 'DELETE FROM stock WHERE Pharmacy_ID=%s AND Drug_ID=%s'
+        val = (data['pharma'], data['del'])
+        cursor.execute(sql, val)
+        cnx.commit()
+        cnx.close()
+        return jsonify({'message': 'Stock deleted successfully'})
     
 @app.route('/view-stock', methods=['POST'])
 def viewStock():

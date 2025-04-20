@@ -1,10 +1,15 @@
 document.addEventListener("DOMContentLoaded", function () {
-    var loginForm = document.getElementById("stock");
+    var stockForm = document.getElementById("stock");
+    var unstockForm = document.getElementById("unstock");
     var stockView = document.getElementById("view");
     var logoutButton = document.getElementById("logout");
-    loginForm.addEventListener("submit", (e) => {
-        e.preventDefault();
-        stock(new FormData(e.target));
+    stockForm.addEventListener("submit", (e) => {
+      e.preventDefault();
+      stock(new FormData(e.target));
+    });
+    unstockForm.addEventListener("submit", (e) => {
+      e.preventDefault();
+      unstock(new FormData(e.target));
     });
     stockView.addEventListener("click", (e) => {
       e.preventDefault(); 
@@ -29,6 +34,20 @@ document.addEventListener("DOMContentLoaded", function () {
         .then(response => response.json());
         console.log(response["message"]);
     }
+    async function unstock(body) {
+      var formObj = {};
+      body.forEach((value, key) => {
+        formObj[key] = value;
+      });
+      console.log(formObj["quan"]);
+      const response = await fetch("http://localhost:5000/remove-stock", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ...formObj, pharma: sessionStorage.getItem("id") }),
+      })
+      .then(response => response.json());
+      console.log(response["message"]);
+  }
     async function view() {
       const response = await fetch("http://localhost:5000/view-stock", {
         method: "POST",
